@@ -44,7 +44,7 @@ def extract():
             file_path = f"{path}/{file}"
         # call read text file function
             read_text_file(file_path)
-    return lists[1]
+    return lists[0]
 
 print(extract())
 
