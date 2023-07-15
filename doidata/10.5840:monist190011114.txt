@@ -1,0 +1,44 @@
+TY  - JOUR
+DO  - 10.1111/jaac.12398
+UR  - http://dx.doi.org/10.1111/jaac.12398
+TI  - Art and Science: A Philosophical Sketch of Their Historical Complexity and Codependence
+T2  - The Journal of Aesthetics and Art Criticism
+AU  - BULLOT, NICOLAS J.
+AU  - SEELEY, WILLIAM P.
+AU  - DAVIES, STEPHEN
+PY  - 2017
+DA  - 2017/10
+PB  - Oxford University Press (OUP)
+SP  - 453-463
+IS  - 4
+VL  - 75
+SN  - 0021-8529
+ER  - 
+
+TY  - JOUR
+DO  - 10.1126/science.36.926.407
+UR  - http://dx.doi.org/10.1126/science.36.926.407
+TI  - <i>Nature's Harmonic Unity</i> . By Samuel Colman, N.A. Edited by C. Arthur Coan, LL.B. New York, G. P. Putnam's Sons. 1912. Cloth, 8 × 9½ in. Pp. viii + 327; 302 illustrations. $3.50 net.
+T2  - Science
+AU  - Emch, Arnold
+PY  - 1912
+DA  - 1912/09/27
+PB  - American Association for the Advancement of Science (AAAS)
+SP  - 407-408
+IS  - 926
+VL  - 36
+SN  - 0036-8075
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-031-14474-5_6
+UR  - http://dx.doi.org/10.1007/978-3-031-14474-5_6
+TI  - Mathematical Creativity Research in the Elementary Grades
+T2  - Mathematical Creativity
+AU  - Kozlowski, Joseph S.
+AU  - Chamberlin, Scott A.
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 65-80
+SN  - 2570-4729
+ER  - 

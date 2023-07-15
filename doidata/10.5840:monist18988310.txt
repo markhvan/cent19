@@ -1,0 +1,297 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-6003-3_8
+UR  - http://dx.doi.org/10.1007/978-981-15-6003-3_8
+TI  - CBEL in Practice: Case Study 5 Understanding the Learning Process of ‘High Performers’ on a Mandatory Experiential Learning Programme
+T2  - Springer Texts in Education
+AU  - Harfitt, Gary
+AU  - Chow, Jessie Mei Ling
+PY  - 2020
+PB  - Springer Singapore
+SP  - 117-130
+SN  - 2366-7672
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.408
+UR  - http://dx.doi.org/10.4000/ejpap.408
+TI  - Appropriating Dewey
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Chiang, Yung-chen
+PY  - 2015
+DA  - 2015/12/23
+PB  - OpenEdition
+IS  - 2
+VL  - VII
+SN  - 2036-4091
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/15228967.2012.731879
+UR  - http://dx.doi.org/10.1080/15228967.2012.731879
+TI  - Disability, Theology, and Human Evolution: An Original Hypothesis Based on the Spiritual Experience of L’Arche Communities
+T2  - Journal of Religion, Disability &amp; Health
+AU  - Doat, David
+PY  - 2013
+DA  - 2013/04
+PB  - Informa UK Limited
+SP  - 125-168
+IS  - 2
+VL  - 17
+SN  - 1522-8967
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-74938-9_5
+UR  - http://dx.doi.org/10.1007/978-3-319-74938-9_5
+TI  - Values, Transactional Relationships and the Autonomy of Science
+T2  - Logic, Argumentation &amp; Reasoning
+AU  - Barrotta, Pierluigi
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 107-143
+SN  - 2214-9120
+ER  - 
+
+TY  - JOUR
+DO  - 10.1145/2874239.2874276
+UR  - http://dx.doi.org/10.1145/2874239.2874276
+TI  - Robots make ethics honest
+T2  - ACM SIGCAS Computers and Society
+AU  - Klein, Wilhelm E. J.
+PY  - 2016
+DA  - 2016/01/05
+PB  - Association for Computing Machinery (ACM)
+SP  - 261-269
+IS  - 3
+VL  - 45
+SN  - 0095-2737
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-323-90239-7.00010-9
+UR  - http://dx.doi.org/10.1016/b978-0-323-90239-7.00010-9
+TI  - How can we know what is true, then?
+T2  - Problems of Living
+AU  - Stein, Dan J.
+PY  - 2021
+PB  - Elsevier
+SP  - 169-198
+SN  - 9780323902397
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10539-011-9282-2
+UR  - http://dx.doi.org/10.1007/s10539-011-9282-2
+TI  - Ecosystem engineering, experiment, and evolution
+T2  - Biology &amp; Philosophy
+AU  - Pearce, Trevor
+PY  - 2011
+DA  - 2011/06/15
+PB  - Springer Science and Business Media LLC
+SP  - 793-812
+IS  - 6
+VL  - 26
+SN  - 0169-3867
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.1741-5446.1969.tb00376.x
+UR  - http://dx.doi.org/10.1111/j.1741-5446.1969.tb00376.x
+TI  - Education and Social Darwinism
+T2  - Educational Theory
+AU  - EDDY, LYLE K.
+PY  - 1969
+DA  - 1969/01
+PB  - Wiley
+SP  - 76-87
+IS  - 1
+VL  - 19
+SN  - 0013-2004
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.shpsc.2010.07.003
+UR  - http://dx.doi.org/10.1016/j.shpsc.2010.07.003
+TI  - From ‘circumstances’ to ‘environment’: Herbert Spencer and the origins of the idea of organism–environment interaction
+T2  - Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences
+AU  - Pearce, Trevor
+PY  - 2010
+DA  - 2010/09
+PB  - Elsevier BV
+SP  - 241-252
+IS  - 3
+VL  - 41
+SN  - 1369-8486
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/theo.12264
+UR  - http://dx.doi.org/10.1111/theo.12264
+TI  - The <scp>Culture‐Bound</scp> Brain: Epigenetic Proaction Revisited
+T2  - Theoria
+AU  - Evers, Kathinka
+PY  - 2020
+DA  - 2020/07/08
+PB  - Wiley
+SP  - 783-800
+IS  - 6
+VL  - 86
+SN  - 0040-5825
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/00220272.2015.1088067
+UR  - http://dx.doi.org/10.1080/00220272.2015.1088067
+TI  - Educators confront the ‘science’ of racism, 1898–1925
+T2  - Journal of Curriculum Studies
+AU  - Fallace, Thomas D.
+PY  - 2015
+DA  - 2015/10/06
+PB  - Informa UK Limited
+SP  - 252-270
+IS  - 2
+VL  - 48
+SN  - 0022-0272
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/s0003975611000051
+UR  - http://dx.doi.org/10.1017/s0003975611000051
+TI  - Thick Concepts and the Moral Brain
+T2  - European Journal of Sociology
+AU  - Abend, Gabriel
+PY  - 2011
+DA  - 2011/04
+PB  - Cambridge University Press (CUP)
+SP  - 143-172
+IS  - 1
+VL  - 52
+SN  - 0003-9756
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/s0007087400012279
+UR  - http://dx.doi.org/10.1017/s0007087400012279
+TI  - Alfred Russel Wallace: Philosophy of Nature and Man
+T2  - The British Journal for the History of Science
+AU  - Smith, Roger
+PY  - 1972
+DA  - 1972/12
+PB  - Cambridge University Press (CUP)
+SP  - 177-199
+IS  - 2
+VL  - 6
+SN  - 0007-0874
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10441-021-09410-6
+UR  - http://dx.doi.org/10.1007/s10441-021-09410-6
+TI  - Biology and Pragmatism: The Organism-Environment Bond
+T2  - Acta Biotheoretica
+AU  - Depew, David
+PY  - 2021
+DA  - 2021/04/08
+PB  - Springer Science and Business Media LLC
+SP  - 875-885
+IS  - 4
+VL  - 69
+SN  - 0001-5342
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/14767430.2019.1618623
+UR  - http://dx.doi.org/10.1080/14767430.2019.1618623
+TI  - Moral (and ethical) realism
+T2  - Journal of Critical Realism
+AU  - Richards, Howard
+PY  - 2019
+DA  - 2019/05/27
+PB  - Informa UK Limited
+SP  - 285-302
+IS  - 3
+VL  - 18
+SN  - 1476-7430
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/147470490400200108
+UR  - http://dx.doi.org/10.1177/147470490400200108
+TI  - On the Naturalistic Fallacy: A Conceptual Basis for Evolutionary Ethics
+T2  - Evolutionary Psychology
+AU  - Teehan, John
+AU  - diCarlo, Christopher
+PY  - 2004
+DA  - 2004/01/01
+PB  - SAGE Publications
+SP  - 147470490400200
+IS  - 1
+VL  - 2
+SN  - 1474-7049
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11191-009-9202-x
+UR  - http://dx.doi.org/10.1007/s11191-009-9202-x
+TI  - Darwinian Controversies: An Historiographical Recounting
+T2  - Science &amp; Education
+AU  - Depew, David J.
+PY  - 2009
+DA  - 2009/07/29
+PB  - Springer Science and Business Media LLC
+SP  - 323-366
+IS  - 4-5
+VL  - 19
+SN  - 0926-7220
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.1490
+UR  - http://dx.doi.org/10.4000/ejpap.1490
+TI  - Georg Simmel and Pragmatism
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Kusch, Martin
+PY  - 2019
+DA  - 2019/07/19
+PB  - OpenEdition
+IS  - 1
+VL  - XI
+SN  - 2036-4091
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4419-6896-8_30
+UR  - http://dx.doi.org/10.1007/978-1-4419-6896-8_30
+TI  - What’s New and What’s Old about the New Sociology of Morality
+T2  - Handbook of the Sociology of Morality
+AU  - Abend, Gabriel
+PY  - 2010
+PB  - Springer New York
+SP  - 561-584
+SN  - 1389-6903
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s40656-021-00467-7
+UR  - http://dx.doi.org/10.1007/s40656-021-00467-7
+TI  - Theistic evolution and evolutionary ethics: Henry Fairfield Osborn and Huxley’s legacy
+T2  - History and Philosophy of the Life Sciences
+AU  - Ceccarelli, David
+PY  - 2021
+DA  - 2021/11/09
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 43
+SN  - 0391-9714
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-323-90239-7.00013-4
+UR  - http://dx.doi.org/10.1016/b978-0-323-90239-7.00013-4
+TI  - References
+T2  - Problems of Living
+PY  - 2021
+PB  - Elsevier
+SP  - 235-300
+SN  - 9780323902397
+ER  - 

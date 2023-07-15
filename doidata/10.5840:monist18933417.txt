@@ -1,0 +1,195 @@
+TY  - GENERIC
+DO  - 10.1016/b0-08-044854-2/02853-4
+UR  - http://dx.doi.org/10.1016/b0-08-044854-2/02853-4
+TI  - Richards, Ivor Armstrong (1893–1979)
+T2  - Encyclopedia of Language &amp; Linguistics
+AU  - Kerecuk, N.
+PY  - 2006
+PB  - Elsevier
+SP  - 624-626
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/sem.2008.042
+UR  - http://dx.doi.org/10.1515/sem.2008.042
+TI  - Interpretive semiotics
+T2  - Semiotica
+AU  - Nuessel, Frank
+PY  - 2008
+DA  - 2008/01
+PB  - Walter de Gruyter GmbH
+IS  - 169
+VL  - 2008
+SN  - 0037-1998
+ER  - 
+
+TY  - JOUR
+DO  - 10.21267/aquilo.2021.76.76.016
+UR  - http://dx.doi.org/10.21267/aquilo.2021.76.76.016
+TI  - Significs of Lady Victoria Welby: Portrait in the interior of time
+T2  - Диалог со временем
+AU  - Скрипник, К.Д.
+PY  - 2021
+DA  - 2021/08/17
+PB  - Aquilon Ltd
+SP  - 375-386
+IS  - 76(76)
+SN  - 2073-7564
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.langsci.2013.10.001
+UR  - http://dx.doi.org/10.1016/j.langsci.2013.10.001
+TI  - Ogden and Richards’ The Meaning of Meaning and early analytic philosophy
+T2  - Language Sciences
+AU  - McElvenny, James
+PY  - 2014
+DA  - 2014/01
+PB  - Elsevier BV
+SP  - 212-221
+VL  - 41
+SN  - 0388-0001
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b0-08-044854-2/01454-1
+UR  - http://dx.doi.org/10.1016/b0-08-044854-2/01454-1
+TI  - Significs: Theory
+T2  - Encyclopedia of Language &amp; Linguistics
+AU  - Petrilli, S.
+PY  - 2006
+PB  - Elsevier
+SP  - 376-377
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/css-2017-0004
+UR  - http://dx.doi.org/10.1515/css-2017-0004
+TI  - Mother Sense, Language, and Logic
+T2  - Chinese Semiotic Studies
+AU  - Petrilli, Susan
+PY  - 2017
+DA  - 2017/02/01
+PB  - Walter de Gruyter GmbH
+SP  - 47-71
+IS  - 1
+VL  - 13
+SN  - 2198-9613
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-017-9404-6_8
+UR  - http://dx.doi.org/10.1007/978-94-017-9404-6_8
+TI  - Welby’s Significs, Its Developments and International Ramifications
+T2  - International Handbook of Semiotics
+AU  - Petrilli, Susan
+PY  - 2015
+PB  - Springer Netherlands
+SP  - 217-235
+SN  - 9789401794039
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/09608788.2019.1684240
+UR  - http://dx.doi.org/10.1080/09608788.2019.1684240
+TI  - Bergson and the spiritualist origins of the ideology of creativity in philosophy
+T2  - British Journal for the History of Philosophy
+AU  - Bianco, Giuseppe
+PY  - 2019
+DA  - 2019/11/12
+PB  - Informa UK Limited
+SP  - 1031-1052
+IS  - 5
+VL  - 28
+SN  - 0960-8788
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/ijld-2020-2039
+UR  - http://dx.doi.org/10.1515/ijld-2020-2039
+TI  - The semiotic puzzle: Authentic languages &amp; international law
+T2  - International Journal of Legal Discourse
+AU  - Chapdelaine-Feliciati, Clara
+PY  - 2020
+DA  - 2020/09/01
+PB  - Walter de Gruyter GmbH
+SP  - 317-341
+IS  - 2
+VL  - 5
+SN  - 2364-8821
+ER  - 
+
+TY  - JOUR
+DO  - 10.7202/018498ar
+UR  - http://dx.doi.org/10.7202/018498ar
+TI  - Translation, Interpretation, and Common Meaning: Victoria Welby’s Significal Perspective1
+T2  - 
+AU  - Petrilli, Susan
+PY  - 2008
+DA  - 2008/07/28
+PB  - Consortium Erudit
+SP  - 13-98
+IS  - 1
+VL  - 20
+SN  - 1708-2188
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/09608788.2020.1864282
+UR  - http://dx.doi.org/10.1080/09608788.2020.1864282
+TI  - Introduction to nineteenth-century British and American women philosophers
+T2  - British Journal for the History of Philosophy
+AU  - Stone, Alison
+AU  - Alderwick, Charlotte
+PY  - 2021
+DA  - 2021/03/04
+PB  - Informa UK Limited
+SP  - 193-207
+IS  - 2
+VL  - 29
+SN  - 0960-8788
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/semi.2010.063
+UR  - http://dx.doi.org/10.1515/semi.2010.063
+TI  - Three women in semiotics: Welby, Boole, Langer
+T2  - Semiotica
+AU  - Petrilli, Susan
+PY  - 2010
+DA  - 2010/01
+PB  - Walter de Gruyter GmbH
+IS  - 182
+VL  - 2010
+SN  - 0037-1998
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/semi.2011.031
+UR  - http://dx.doi.org/10.1515/semi.2011.031
+TI  - Victoria Welby and the Signific Movement
+T2  - Semiotica
+AU  - Nuessel, Frank
+PY  - 2011
+DA  - 2011/01
+PB  - Walter de Gruyter GmbH
+IS  - 184
+VL  - 2011
+SN  - 0037-1998
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/09526950122120952
+UR  - http://dx.doi.org/10.1177/09526950122120952
+TI  - Mind, meaning and metaphor: the philosophy and psychology of metaphor in 19th-century Germany
+T2  - History of the Human Sciences
+AU  - Nerlich, Brigitte
+AU  - Clarke, David D.
+PY  - 2001
+DA  - 2001/05
+PB  - SAGE Publications
+SP  - 39-61
+IS  - 2
+VL  - 14
+SN  - 0952-6951
+ER  - 

@@ -1,0 +1,532 @@
+TY  - GENERIC
+DO  - 10.1215/9781478021872-004
+UR  - http://dx.doi.org/10.1215/9781478021872-004
+TI  - Toxic Late Liberalism
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 36-59
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-476-05462-3_4
+UR  - http://dx.doi.org/10.1007/978-3-476-05462-3_4
+TI  - Einflüsse, Verbindungen, Auswirkungen
+T2  - Evolution
+AU  - Sommer, Marianne
+AU  - von Rauchhaupt, Ulf
+AU  - Lenzen, Manuela
+AU  - Gingrich, Andre
+AU  - Geulen, Christian
+AU  - Toepfer, Georg
+AU  - Eibl, Karl
+AU  - Güth, Werner
+AU  - Kliemt, Hartmut
+AU  - Hampe, Michael
+AU  - Beyler, Richard H.
+AU  - Walter, Sven
+AU  - Amstutz, Marc
+AU  - Merz-Benz, Peter-Ulrich
+AU  - Jäger, Ludwig
+AU  - Ingensiep, Hans Werner
+AU  - Brigandt, Ingo
+AU  - Tanner, Jakob
+AU  - Schmuhl, Hans-Walter
+AU  - Schwarz, Angela
+AU  - Menninghaus, Winfried
+AU  - Gamper, Michael
+PY  - 2010
+PB  - J.B. Metzler
+SP  - 201-413
+SN  - 9783476022745
+ER  - 
+
+TY  - JOUR
+DO  - 10.7202/1090451ar
+UR  - http://dx.doi.org/10.7202/1090451ar
+TI  - Le mystérieux fonctionnement de l’abduction selon Charles S. Peirce
+T2  - Cygne noir
+AU  - Levesque, Simon
+PY  - 2022
+DA  - 2022/07/11
+PB  - Consortium Erudit
+SP  - 53-78
+IS  - 3
+SN  - 1929-090X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/0-8176-4429-6_7
+UR  - http://dx.doi.org/10.1007/0-8176-4429-6_7
+TI  - Dynamic Core of Fuzzy Dynamical Cooperative Games
+T2  - Annals of the International Society of Dynamic Games
+AU  - Aubin, Jean-Pierre
+PY  - 2005
+PB  - Birkhäuser Boston
+SP  - 129-162
+SN  - 2474-0179
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-031-17678-4_6
+UR  - http://dx.doi.org/10.1007/978-3-031-17678-4_6
+TI  - Body, Meaning, and Time: Healing Response as a Transtemporal and Multimodal Meaning-Making Process
+T2  - Epigenetics and Anticipation
+AU  - Goli, Farzad
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 79-97
+SN  - 1867-4925
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-010
+UR  - http://dx.doi.org/10.1215/9781478021872-010
+TI  - Bibliography
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 157-172
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-476-04557-7_22
+UR  - http://dx.doi.org/10.1007/978-3-476-04557-7_22
+TI  - Religionsphilosophie
+T2  - Handbuch Pragmatismus
+AU  - Honnacker, Ana
+PY  - 2018
+PB  - J.B. Metzler
+SP  - 162-170
+SN  - 9783476045560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1075/cilt.345.02tho
+UR  - http://dx.doi.org/10.1075/cilt.345.02tho
+TI  - Induction and tradition
+T2  - Perspectives on Language Structure and Language Change
+AU  - Nedergaard Thomsen, Ole
+PY  - 2019
+DA  - 2019/06/15
+PB  - John Benjamins Publishing Company
+SP  - 35-79
+SN  - 0304-0763
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-50730-9_3
+UR  - http://dx.doi.org/10.1007/978-3-319-50730-9_3
+TI  - Classical Pragmatism and Metaphysics: James and Peirce on Scientific Determinism
+T2  - Vienna Circle Institute Yearbook
+AU  - Romizi, Donata
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 43-66
+SN  - 0929-6328
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-001
+UR  - http://dx.doi.org/10.1215/9781478021872-001
+TI  - Introduction
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 1-11
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-006
+UR  - http://dx.doi.org/10.1215/9781478021872-006
+TI  - Atomic Ends
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 63-85
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-007
+UR  - http://dx.doi.org/10.1215/9781478021872-007
+TI  - Toxic Ends
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 86-111
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-003
+UR  - http://dx.doi.org/10.1215/9781478021872-003
+TI  - The Four Axioms of Existence
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 15-35
+SN  - 9781478021872
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.pbiomolbio.2017.08.011
+UR  - http://dx.doi.org/10.1016/j.pbiomolbio.2017.08.011
+TI  - How Peircean semiotic philosophy connects Western science with Eastern emptiness ontology
+T2  - Progress in Biophysics and Molecular Biology
+AU  - Brier, Søren
+PY  - 2017
+DA  - 2017/12
+PB  - Elsevier BV
+SP  - 377-386
+VL  - 131
+SN  - 0079-6107
+ER  - 
+
+TY  - JOUR
+DO  - 10.35765/forphil.2018.2302.09
+UR  - http://dx.doi.org/10.35765/forphil.2018.2302.09
+TI  - René Girard and the Deferral of Violence
+T2  - Forum Philosophicum
+AU  - Gans, Eric
+PY  - 2019
+DA  - 2019/10/30
+PB  - Jesuit University Ignatianum - Ignatianum University Press
+SP  - 155-170
+IS  - 2
+VL  - 23
+SN  - 2353-7043
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/13504622.2018.1446511
+UR  - http://dx.doi.org/10.1080/13504622.2018.1446511
+TI  - Facing loss: pedagogy of death
+T2  - Environmental Education Research
+AU  - Affifi, Ramsey
+AU  - Christie, Beth
+PY  - 2018
+DA  - 2018/03/02
+PB  - Informa UK Limited
+SP  - 1143-1157
+IS  - 8
+VL  - 25
+SN  - 1350-4622
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s13132-016-0420-6
+UR  - http://dx.doi.org/10.1007/s13132-016-0420-6
+TI  - Knowledge-Based Network: the Key Is the Solution of Dilemmas
+T2  - Journal of the Knowledge Economy
+AU  - Munier, Francis
+PY  - 2016
+DA  - 2016/11/10
+PB  - Springer Science and Business Media LLC
+SP  - 279-292
+IS  - 1
+VL  - 12
+SN  - 1868-7865
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-16649-6_8
+UR  - http://dx.doi.org/10.1007/978-3-030-16649-6_8
+TI  - Category Theory and Quantum Mechanics
+T2  - The Quantum Mechanics Conundrum
+AU  - Auletta, Gennaro
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 717-835
+SN  - 9783030166489
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/zygo.12061
+UR  - http://dx.doi.org/10.1111/zygo.12061
+TI  - NATURALIZED SACREDNESS? A REALIST, PANENTHEIST, AND PERENNIALIST ALTERNATIVE TO KAUFFMAN'S CONSTRUCTIVISM
+T2  - Zygon®
+AU  - Shani, Itay
+PY  - 2014
+DA  - 2014/02/24
+PB  - Wiley
+SP  - 22-41
+IS  - 1
+VL  - 49
+SN  - 0591-2385
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10739-004-6514-1
+UR  - http://dx.doi.org/10.1007/s10739-004-6514-1
+TI  - Deconstructing Darwin: Evolutionary theory in context
+T2  - Journal of the History of Biology
+AU  - Hull, David L.
+PY  - 2005
+DA  - 2005/03
+PB  - Springer Science and Business Media LLC
+SP  - 137-152
+IS  - 1
+VL  - 38
+SN  - 0022-5010
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.1555
+UR  - http://dx.doi.org/10.4000/ejpap.1555
+TI  - Peirce e Leibniz
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Failla, Mariannina
+PY  - 2019
+DA  - 2019/07/19
+PB  - OpenEdition
+IS  - 1
+VL  - XI
+SN  - 2036-4091
+ER  - 
+
+TY  - JOUR
+DO  - 10.1260/1747-9541.9.1.73
+UR  - http://dx.doi.org/10.1260/1747-9541.9.1.73
+TI  - John R. Wooden, Stephen R. Covey and Servant Leadership
+T2  - International Journal of Sports Science &amp; Coaching
+AU  - Jenkins, Simon
+PY  - 2014
+DA  - 2014/02
+PB  - SAGE Publications
+SP  - 73-84
+IS  - 1
+VL  - 9
+SN  - 1747-9541
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/(sici)1099-1735(199609)13:3<229::aid-sres96>3.0.co;2-b
+UR  - http://dx.doi.org/10.1002/(sici)1099-1735(199609)13:3<229::aid-sres96>3.0.co;2-b
+TI  - From second-order cybernetics to cybersemiotics: A semiotic re-entry into the second-order cybernetics of Heinz von Foerster
+T2  - Systems Research
+AU  - Brier, Søren
+PY  - 1996
+DA  - 1996/09
+PB  - Wiley
+SP  - 229-244
+IS  - 3
+VL  - 13
+SN  - 0731-7239
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-131
+UR  - http://dx.doi.org/10.1215/9781478021872-131
+TI  - Postscript
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 131-133
+SN  - 9781478021872
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/13556509.2019.1567905
+UR  - http://dx.doi.org/10.1080/13556509.2019.1567905
+TI  - A (bio)semiotic theory of translation: the emergence of social-cultural reality
+T2  - The Translator
+AU  - Robinson, Douglas
+PY  - 2018
+DA  - 2018/10/02
+PB  - Informa UK Limited
+SP  - 395-399
+IS  - 4
+VL  - 24
+SN  - 1355-6509
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10441-021-09410-6
+UR  - http://dx.doi.org/10.1007/s10441-021-09410-6
+TI  - Biology and Pragmatism: The Organism-Environment Bond
+T2  - Acta Biotheoretica
+AU  - Depew, David
+PY  - 2021
+DA  - 2021/04/08
+PB  - Springer Science and Business Media LLC
+SP  - 875-885
+IS  - 4
+VL  - 69
+SN  - 0001-5342
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/03323315.2014.983303
+UR  - http://dx.doi.org/10.1080/03323315.2014.983303
+TI  - Inquiry-based learning with young learners: a Peirce-based model employed to critique a unit of inquiry on maps and mapping
+T2  - Irish Educational Studies
+AU  - Bacon, Karin
+AU  - Matthews, Philip
+PY  - 2014
+DA  - 2014/10/02
+PB  - Informa UK Limited
+SP  - 351-365
+IS  - 4
+VL  - 33
+SN  - 0332-3315
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-008
+UR  - http://dx.doi.org/10.1215/9781478021872-008
+TI  - Conceptual Ends
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 112-130
+SN  - 9781478021872
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/1468795x06061283
+UR  - http://dx.doi.org/10.1177/1468795x06061283
+TI  - Peirce and the Founding of American Sociology
+T2  - Journal of Classical Sociology
+AU  - Wiley, Norbert
+PY  - 2006
+DA  - 2006/03
+PB  - SAGE Publications
+SP  - 23-50
+IS  - 1
+VL  - 6
+SN  - 1468-795X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-322-97108-1_14
+UR  - http://dx.doi.org/10.1007/978-3-322-97108-1_14
+TI  - Evolution und Metamorphose
+T2  - Soziale Evolution
+AU  - Kreutz, Henrik
+PY  - 2003
+PB  - VS Verlag für Sozialwissenschaften
+SP  - 267-296
+SN  - 9783531140438
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.1490
+UR  - http://dx.doi.org/10.4000/ejpap.1490
+TI  - Georg Simmel and Pragmatism
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Kusch, Martin
+PY  - 2019
+DA  - 2019/07/19
+PB  - OpenEdition
+IS  - 1
+VL  - XI
+SN  - 2036-4091
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-540-85711-2_8
+UR  - http://dx.doi.org/10.1007/978-3-540-85711-2_8
+TI  - Probabilistic Roots of Financial Modelling: A Historical Perspective
+T2  - Vinzenz Bronzin’s Option Pricing Models
+AU  - Zimmermann, Heinz
+PY  - 2009
+PB  - Springer Berlin Heidelberg
+SP  - 251-291
+SN  - 9783540857105
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.1628
+UR  - http://dx.doi.org/10.4000/ejpap.1628
+TI  - The Throne of Mnemosyne
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Snelson, Kermit
+PY  - 2019
+DA  - 2019/12/25
+PB  - OpenEdition
+IS  - 2
+VL  - XI
+SN  - 2036-4091
+ER  - 
+
+TY  - JOUR
+DO  - 10.1086/289177
+UR  - http://dx.doi.org/10.1086/289177
+TI  - Chance and Natural Selection
+T2  - Philosophy of Science
+AU  - Beatty, John
+PY  - 1984
+DA  - 1984/06
+PB  - Cambridge University Press (CUP)
+SP  - 183-211
+IS  - 2
+VL  - 51
+SN  - 0031-8248
+ER  - 
+
+TY  - JOUR
+DO  - 10.1081/sap-120024699
+UR  - http://dx.doi.org/10.1081/sap-120024699
+TI  - Characterization of Stochastic Viability of Any Nonsmooth Set Involving Its Generalized Contingent Curvature
+T2  - Stochastic Analysis and Applications
+AU  - Aubin, Jean‐Pierre
+AU  - Doss, Halim
+PY  - 2003
+DA  - 2003/01/09
+PB  - Informa UK Limited
+SP  - 955-981
+IS  - 5
+VL  - 21
+SN  - 0736-2994
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-134
+UR  - http://dx.doi.org/10.1215/9781478021872-134
+TI  - Glossary
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 134-142
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-009
+UR  - http://dx.doi.org/10.1215/9781478021872-009
+TI  - Notes
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 143-155
+SN  - 9781478021872
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.geoforum.2007.10.003
+UR  - http://dx.doi.org/10.1016/j.geoforum.2007.10.003
+TI  - Stepping from the wreckage: Geography, pragmatism and anti-representational theory
+T2  - Geoforum
+AU  - Jones, Owain
+PY  - 2008
+DA  - 2008/07
+PB  - Elsevier BV
+SP  - 1600-1612
+IS  - 4
+VL  - 39
+SN  - 0016-7185
+ER  - 

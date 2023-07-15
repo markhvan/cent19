@@ -1,0 +1,30 @@
+TY  - JOUR
+DO  - 10.4000/traces.713
+UR  - http://dx.doi.org/10.4000/traces.713
+TI  - Les pragmatiques à l’épreuve du pragmatisme. Esquisse d’un « air de famille »
+T2  - Tracés
+AU  - Kreplak, Yaël
+AU  - Lavergne, Cécile
+PY  - 2008
+DA  - 2008/12/01
+PB  - OpenEdition
+SP  - 127-145
+IS  - 15
+SN  - 1763-0061
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/03637758309390153
+UR  - http://dx.doi.org/10.1080/03637758309390153
+TI  - Public knowledge and ideological argumentation
+T2  - Communication Monographs
+AU  - McGee, Michael Calvin
+AU  - Martin, Martha Anne
+PY  - 1983
+DA  - 1983/03
+PB  - Informa UK Limited
+SP  - 47-65
+IS  - 1
+VL  - 50
+SN  - 0363-7751
+ER  - 

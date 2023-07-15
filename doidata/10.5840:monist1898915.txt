@@ -1,0 +1,126 @@
+TY  - JOUR
+DO  - 10.1007/s00591-013-0120-2
+UR  - http://dx.doi.org/10.1007/s00591-013-0120-2
+TI  - Poincaré’s „vierte Geometrie“
+T2  - Mathematische Semesterberichte
+AU  - Nabonnand, Philippe
+PY  - 2013
+DA  - 2013/04/20
+PB  - Springer Science and Business Media LLC
+SP  - 79-91
+IS  - 1
+VL  - 61
+SN  - 0720-728X
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10743-004-2061-z
+UR  - http://dx.doi.org/10.1007/s10743-004-2061-z
+TI  - Questions Regarding Husserlian Geometry and Phenomenology. A Study of the Concept of Manifold and Spatial Perception
+T2  - Husserl Studies
+AU  - Boi, Luciano
+PY  - 2004
+DA  - 2004/12
+PB  - Springer Science and Business Media LLC
+SP  - 207-267
+IS  - 3
+VL  - 20
+SN  - 0167-9848
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.shpsb.2013.01.003
+UR  - http://dx.doi.org/10.1016/j.shpsb.2013.01.003
+TI  - The primacy of geometry
+T2  - Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics
+AU  - Hagar, Amit
+AU  - Hemmo, Meir
+PY  - 2013
+DA  - 2013/08
+PB  - Elsevier BV
+SP  - 357-364
+IS  - 3
+VL  - 44
+SN  - 1355-2198
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-68436-5_47-1
+UR  - http://dx.doi.org/10.1007/978-3-030-68436-5_47-1
+TI  - Abduction and Design Theory: Disentangling the Two Notions to Unbound Generativity in Science
+T2  - Handbook of Abductive Cognition
+AU  - Kroll, Ehud
+AU  - Le Masson, Pascal
+AU  - Weil, Benoit
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 1-22
+SN  - 9783030684365
+ER  - 
+
+TY  - JOUR
+DO  - 10.2478/kjps-2019-0007
+UR  - http://dx.doi.org/10.2478/kjps-2019-0007
+TI  - The Role of Intuition and Formal Thinking in Kant, Riemann, Husserl, Poincare, Weyl, and in Current Mathematics and Physics
+T2  - Kairos. Journal of Philosophy &amp; Science
+AU  - Boi, Luciano
+PY  - 2019
+DA  - 2019/12/01
+PB  - Walter de Gruyter GmbH
+SP  - 1-53
+IS  - 1
+VL  - 22
+SN  - 1647-659X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-08-025790-7.50013-5
+UR  - http://dx.doi.org/10.1016/b978-0-08-025790-7.50013-5
+TI  - Bibliography
+T2  - Science and Convention
+PY  - 1982
+PB  - Elsevier
+SP  - 206-216
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf02116242
+UR  - http://dx.doi.org/10.1007/bf02116242
+TI  - The problem of the invariance of dimension in the growth of modern topology, part II
+T2  - Archive for History of Exact Sciences
+AU  - Johnson, Dale M.
+PY  - 1981
+DA  - 1981/12
+PB  - Springer Science and Business Media LLC
+SP  - 85-266
+IS  - 2-3
+VL  - 25
+SN  - 0003-9519
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10516-022-09640-4
+UR  - http://dx.doi.org/10.1007/s10516-022-09640-4
+TI  - Mathematical Understanding by Thought Experiments
+T2  - Axiomathes
+AU  - Heinzmann, Gerhard
+PY  - 2022
+DA  - 2022/10/13
+PB  - Springer Science and Business Media LLC
+SP  - 871-886
+IS  - S3
+VL  - 32
+SN  - 1122-1151
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-017-8780-2_7
+UR  - http://dx.doi.org/10.1007/978-94-017-8780-2_7
+TI  - Does the French Connection (Poincaré, Lautman) Provide Some Insights Facing the Thesis That Meta-mathematics Is an Exception to the Slogan That Mathematics Concerns Structures?
+T2  - The Western Ontario Series in Philosophy of Science
+AU  - Heinzmann, Gerhard
+PY  - 2014
+PB  - Springer Netherlands
+SP  - 113-124
+SN  - 1566-659X
+ER  - 

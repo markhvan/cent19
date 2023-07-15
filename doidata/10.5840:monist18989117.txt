@@ -1,0 +1,192 @@
+TY  - GENERIC
+DO  - 10.1017/cho9780511975257.014
+UR  - http://dx.doi.org/10.1017/cho9780511975257.014
+TI  - Psychology
+T2  - The Cambridge History of Philosophy in the Nineteenth Century (1790–1870)
+AU  - Hatfield, Gary
+PY  - 2012
+DA  - 2012/09/10
+PB  - Cambridge University Press
+SP  - 241-262
+SN  - 9780521772730
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cho9780511975257.029
+UR  - http://dx.doi.org/10.1017/cho9780511975257.029
+TI  - The Decline of Natural Right
+T2  - The Cambridge History of Philosophy in the Nineteenth Century (1790–1870)
+AU  - Waldron, Jeremy
+PY  - 2012
+DA  - 2012/09/10
+PB  - Cambridge University Press
+SP  - 623-650
+SN  - 9780521772730
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/philosophiascientiae.2853
+UR  - http://dx.doi.org/10.4000/philosophiascientiae.2853
+TI  - Logic and Axiomatics in the Making of Latino sine Flexione
+T2  - Philosophia Scientae
+AU  - Aray, Başak
+PY  - 2021
+DA  - 2021/02/25
+PB  - OpenEdition
+SP  - 127-143
+IS  - 25-1
+SN  - 1281-2463
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1057/978-1-137-31907-4_1
+UR  - http://dx.doi.org/10.1057/978-1-137-31907-4_1
+TI  - Mental Science and Moral Science in Nineteenth Century Cambridge
+T2  - The Metaphysical Basis of Ethics
+AU  - Preti, Consuelo
+PY  - 2021
+DA  - 2021/12/10
+PB  - Palgrave Macmillan UK
+SP  - 1-65
+SN  - 9780230277625
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cho9780511975257.008
+UR  - http://dx.doi.org/10.1017/cho9780511975257.008
+TI  - Attempts to Rethink Logic
+T2  - The Cambridge History of Philosophy in the Nineteenth Century (1790–1870)
+AU  - Heis, Jeremy
+PY  - 2012
+DA  - 2012/09/10
+PB  - Cambridge University Press
+SP  - 95-132
+SN  - 9780521772730
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02128-3_11
+UR  - http://dx.doi.org/10.1007/978-3-030-02128-3_11
+TI  - Neurath and the Legacy of Algebraic Logic
+T2  - Boston Studies in the Philosophy and History of Science
+AU  - Cat, Jordi
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 241-337
+SN  - 0068-0346
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.hm.2020.08.001
+UR  - http://dx.doi.org/10.1016/j.hm.2020.08.001
+TI  - Permanence as a principle of practice
+T2  - Historia Mathematica
+AU  - Toader, Iulian D.
+PY  - 2021
+DA  - 2021/02
+PB  - Elsevier BV
+SP  - 77-94
+VL  - 54
+SN  - 0315-0860
+ER  - 
+
+TY  - EDBOOK
+DO  - 10.1017/cho9780511975257
+UR  - http://dx.doi.org/10.1017/cho9780511975257
+TI  - The Cambridge History of Philosophy in the Nineteenth Century (1790–1870)
+PY  - 2012
+DA  - 2012/09/10
+PB  - Cambridge University Press
+SN  - 9780521772730
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/s1874-5857(04)80022-0
+UR  - http://dx.doi.org/10.1016/s1874-5857(04)80022-0
+TI  - Schröder's Logic
+T2  - Handbook of the History of Logic
+AU  - Peckhaus, Volker
+PY  - 2004
+PB  - Elsevier
+SP  - 557-609
+SN  - 1874-5857
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-011-0745-7_205
+UR  - http://dx.doi.org/10.1007/978-94-011-0745-7_205
+TI  - Ernst Schröder
+T2  - Edmund Husserl: Briefwechsel
+AU  - Schuhmann, Karl
+PY  - 1994
+PB  - Springer Netherlands
+SP  - 2479-2482
+SN  - 9789401043212
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-015-9399-1_3
+UR  - http://dx.doi.org/10.1007/978-94-015-9399-1_3
+TI  - Why did Gottlob Frege and Ernst Schröder Fail in their Attempts to Persuade German Philosophers of the Virtues of Mathematical Logic?
+T2  - The Sociology of Philosophical Knowledge
+AU  - Pulkkinen, Jarmo
+PY  - 2000
+PB  - Springer Netherlands
+SP  - 39-59
+SN  - 9789048153909
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cho9780511975257.038
+UR  - http://dx.doi.org/10.1017/cho9780511975257.038
+TI  - The History of Philosophy
+T2  - The Cambridge History of Philosophy in the Nineteenth Century (1790–1870)
+AU  - Forster, Michael N.
+PY  - 2012
+DA  - 2012/09/10
+PB  - Cambridge University Press
+SP  - 866-904
+SN  - 9780521772730
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cho9780511975257.019
+UR  - http://dx.doi.org/10.1017/cho9780511975257.019
+TI  - Autonomy and the Self as the Basis of Morality
+T2  - The Cambridge History of Philosophy in the Nineteenth Century (1790–1870)
+AU  - Reginster, Bernard
+PY  - 2012
+DA  - 2012/09/10
+PB  - Cambridge University Press
+SP  - 387-433
+SN  - 9780521772730
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11787-012-0055-8
+UR  - http://dx.doi.org/10.1007/s11787-012-0055-8
+TI  - Jean van Heijenoort’s Conception of Modern Logic, in Historical Perspective
+T2  - Logica Universalis
+AU  - Anellis, Irving H.
+PY  - 2012
+DA  - 2012/05/30
+PB  - Springer Science and Business Media LLC
+SP  - 339-409
+IS  - 3-4
+VL  - 6
+SN  - 1661-8297
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-06686-8_3
+UR  - http://dx.doi.org/10.1007/978-3-319-06686-8_3
+TI  - The Lattice of Definability. Origins, Recent Developments, and Further Directions
+T2  - Computer Science - Theory and Applications
+AU  - Semenov, Alexei
+AU  - Soprunov, Sergey
+AU  - Uspensky, Vladimir
+PY  - 2014
+PB  - Springer International Publishing
+SP  - 23-38
+SN  - 0302-9743
+ER  - 

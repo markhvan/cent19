@@ -1,0 +1,728 @@
+TY  - JOUR
+DO  - 10.1002/jocb.219
+UR  - http://dx.doi.org/10.1002/jocb.219
+TI  - Evaluating Creativity Through the Degrees of Solidity of Its Assessment: A Relational Approach
+T2  - The Journal of Creative Behavior
+AU  - Martine, Thomas
+AU  - Cooren, François
+AU  - Bartels, Gerald
+PY  - 2017
+DA  - 2017/11/06
+PB  - Wiley
+SP  - 427-442
+IS  - 4
+VL  - 53
+SN  - 0022-0175
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf00370681
+UR  - http://dx.doi.org/10.1007/bf00370681
+TI  - The origin of relation algebras in the development and axiomatization of the calculus of relations
+T2  - Studia Logica
+AU  - Maddux, Roger D.
+PY  - 1991
+PB  - Springer Science and Business Media LLC
+SP  - 421-455
+IS  - 3-4
+VL  - 50
+SN  - 0039-3215
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/s1874-5857(04)80023-2
+UR  - http://dx.doi.org/10.1016/s1874-5857(04)80023-2
+TI  - Peirce's Logic
+T2  - Handbook of the History of Logic
+AU  - Hilpinen, Risto
+PY  - 2004
+PB  - Elsevier
+SP  - 611-658
+SN  - 1874-5857
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/e16074060
+UR  - http://dx.doi.org/10.3390/e16074060
+TI  - Biosemiotic Entropy: Concluding the Series
+T2  - Entropy
+AU  - Oller, John
+PY  - 2014
+DA  - 2014/07/18
+PB  - MDPI AG
+SP  - 4060-4087
+IS  - 7
+VL  - 16
+SN  - 1099-4300
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/e12040631
+UR  - http://dx.doi.org/10.3390/e12040631
+TI  - The Antithesis of Entropy: Biosemiotic Communication from Genetics to Human Language with Special Emphasis on the Immune Systems
+T2  - Entropy
+AU  - Oller, John W.
+PY  - 2010
+DA  - 2010/03/31
+PB  - MDPI AG
+SP  - 631-705
+IS  - 4
+VL  - 12
+SN  - 1099-4300
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11229-015-0677-5
+UR  - http://dx.doi.org/10.1007/s11229-015-0677-5
+TI  - Exploring the beta quadrant
+T2  - Synthese
+AU  - Pietarinen, Ahti-Veikko
+PY  - 2015
+DA  - 2015/02/26
+PB  - Springer Science and Business Media LLC
+SP  - 941-970
+IS  - 4
+VL  - 192
+SN  - 0039-7857
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-24756-4_3
+UR  - http://dx.doi.org/10.1007/978-3-319-24756-4_3
+TI  - The Historical Sources of Tree Graphs and the Tree Method in the Work of Peirce and Gentzen
+T2  - Studies in Universal Logic
+AU  - Anellis, Irving H.
+AU  - Abeles, Francine F.
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 35-97
+SN  - 2297-0282
+ER  - 
+
+TY  - GENERIC
+DO  - 10.5772/intechopen.101848
+UR  - http://dx.doi.org/10.5772/intechopen.101848
+TI  - Cognitive Semiotics: An Overview
+T2  - Mind and Matter - Challenges and Opportunities in Cognitive Semiotics and Aesthetics
+AU  - López-Varela Azcárate, Asun
+PY  - 2022
+DA  - 2022/04/06
+PB  - IntechOpen
+SN  - 9781839699351
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/13684310221120006
+UR  - http://dx.doi.org/10.1177/13684310221120006
+TI  - Critical theory, Peirce and the theory of society
+T2  - European Journal of Social Theory
+AU  - O’Mahony, Patrick
+PY  - 2022
+DA  - 2022/09/14
+PB  - SAGE Publications
+SP  - 258-281
+IS  - 2
+VL  - 26
+SN  - 1368-4310
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf02965686
+UR  - http://dx.doi.org/10.1007/bf02965686
+TI  - Hermann weyl motivations philosophiques d'un choix Maverik
+T2  - Revue de Synthèse
+AU  - Ria, Demetrio
+PY  - 2005
+DA  - 2005/06/27
+PB  - Brill
+SP  - 463-479
+IS  - 2
+VL  - 126
+SN  - 0035-1776
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66162-9_5
+UR  - http://dx.doi.org/10.1007/978-3-319-66162-9_5
+TI  - Vasiliev’s Ideas for Non-Aristotelian Logics: Insight Towards Paraconsistency
+T2  - The Logical Legacy of Nikolai Vasiliev and Modern Logic
+AU  - D’Ottaviano, Itala Maria Loffredo
+AU  - Gomes, Evandro Luís
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 59-77
+SN  - 9783319661605
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/009164710203000102
+UR  - http://dx.doi.org/10.1177/009164710203000102
+TI  - Languages and Genes: Can They be Built up through Random Change and Natural Selection?
+T2  - Journal of Psychology and Theology
+AU  - Oller, John W.
+PY  - 2002
+DA  - 2002/03
+PB  - SAGE Publications
+SP  - 26-40
+IS  - 1
+VL  - 30
+SN  - 0091-6471
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11787-014-0102-8
+UR  - http://dx.doi.org/10.1007/s11787-014-0102-8
+TI  - Toward a Clarity of the Extreme Value Theorem
+T2  - Logica Universalis
+AU  - Katz, Karin U.
+AU  - Katz, Mikhail G.
+AU  - Kudryk, Taras
+PY  - 2014
+DA  - 2014/05/01
+PB  - Springer Science and Business Media LLC
+SP  - 193-214
+IS  - 2
+VL  - 8
+SN  - 1661-8297
+ER  - 
+
+TY  - JOUR
+DO  - 10.1386/ejpc_00026_1
+UR  - http://dx.doi.org/10.1386/ejpc_00026_1
+TI  - Peircean studies in Russia: A historical and cross-cultural perspective
+T2  - Empedocles: European Journal for the Philosophy of Communication
+AU  - Lukianova, Natalia
+AU  - Fell, Elena
+PY  - 2021
+DA  - 2021/06/01
+PB  - Intellect
+SP  - 19-33
+IS  - 1
+VL  - 12
+SN  - 1757-1952
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-98092-8_8
+UR  - http://dx.doi.org/10.1007/978-3-319-98092-8_8
+TI  - KR Vocabulary and Languages
+T2  - A Knowledge Representation Practionary
+AU  - Bergman, Michael K.
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 151-180
+SN  - 9783319980911
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b0-08-044854-2/02911-4
+UR  - http://dx.doi.org/10.1016/b0-08-044854-2/02911-4
+TI  - Strawson, Peter Frederick (b. 1919)
+T2  - Encyclopedia of Language &amp; Linguistics
+AU  - Badon, L.C.
+AU  - Oller, J.W.
+PY  - 2006
+PB  - Elsevier
+SP  - 159-161
+SN  - 9780080448541
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11225-007-9094-1
+UR  - http://dx.doi.org/10.1007/s11225-007-9094-1
+TI  - Should Pregroup Grammars be Adorned with Additional Operations?
+T2  - Studia Logica
+AU  - Lambek, Joachim
+PY  - 2007
+DA  - 2007/11/30
+PB  - Springer Science and Business Media LLC
+SP  - 343-358
+IS  - 2-3
+VL  - 87
+SN  - 0039-3215
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/01445340.2017.1358414
+UR  - http://dx.doi.org/10.1080/01445340.2017.1358414
+TI  - <i>Simplex sigillum veri:</i> Peano, Frege, and Peirce on the Primitives of Logic
+T2  - History and Philosophy of Logic
+AU  - Bellucci, Francesco
+AU  - Moktefi, Amirouche
+AU  - Pietarinen, Ahti-Veikko
+PY  - 2017
+DA  - 2017/08/31
+PB  - Informa UK Limited
+SP  - 80-95
+IS  - 1
+VL  - 39
+SN  - 0144-5340
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/css-2020-0027
+UR  - http://dx.doi.org/10.1515/css-2020-0027
+TI  - Logical Principles of a Topological Explanation
+T2  - Chinese Semiotic Studies
+AU  - Lacková, Ľudmila
+AU  - Zámečník, Lukáš
+PY  - 2020
+DA  - 2020/08/01
+PB  - Walter de Gruyter GmbH
+SP  - 493-514
+IS  - 3
+VL  - 16
+SN  - 2198-9613
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-642-41464-0_14
+UR  - http://dx.doi.org/10.1007/978-3-642-41464-0_14
+TI  - Semantics and Predicate Logic
+T2  - Language Processing with Perl and Prolog
+AU  - Nugues, Pierre M.
+PY  - 2014
+PB  - Springer Berlin Heidelberg
+SP  - 439-468
+SN  - 1611-2482
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/philosophies7060121
+UR  - http://dx.doi.org/10.3390/philosophies7060121
+TI  - The Philosophy of Nature of the Natural Realism. The Operator Algebra from Physics to Logic
+T2  - Philosophies
+AU  - Basti, Gianfranco
+PY  - 2022
+DA  - 2022/10/26
+PB  - MDPI AG
+SP  - 121
+IS  - 6
+VL  - 7
+SN  - 2409-9287
+ER  - 
+
+TY  - JOUR
+DO  - 10.1075/li.00017.prz
+UR  - http://dx.doi.org/10.1075/li.00017.prz
+TI  - The origin of the valency metaphor in linguistics
+T2  - Lingvisticæ Investigationes. International Journal of Linguistics and Language Resources
+AU  - Przepiórkowski, Adam
+PY  - 2018
+DA  - 2018/08/27
+PB  - John Benjamins Publishing Company
+SP  - 152-159
+IS  - 1
+VL  - 41
+SN  - 0378-4169
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10699-012-9289-4
+UR  - http://dx.doi.org/10.1007/s10699-012-9289-4
+TI  - A Cauchy-Dirac Delta Function
+T2  - Foundations of Science
+AU  - Katz, Mikhail G.
+AU  - Tall, David
+PY  - 2012
+DA  - 2012/05/29
+PB  - Springer Science and Business Media LLC
+SP  - 107-123
+IS  - 1
+VL  - 18
+SN  - 1233-1821
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-31502-7_1
+UR  - http://dx.doi.org/10.1007/978-3-319-31502-7_1
+TI  - What Are Mathematical Cultures?
+T2  - Cultures of Mathematics and Logic
+AU  - Larvor, Brendan
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 1-22
+SN  - 2297-2951
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.1540-4781.2006.00427.x
+UR  - http://dx.doi.org/10.1111/j.1540-4781.2006.00427.x
+TI  - Patterns of Development in Spanish L2 Pragmatic Acquisition: An Analysis of Novice Learners' Production of Directives
+T2  - The Modern Language Journal
+AU  - PEARSON, LYNN
+PY  - 2006
+DA  - 2006/12
+PB  - Wiley
+SP  - 473-495
+IS  - 4
+VL  - 90
+SN  - 0026-7902
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-12-599661-7.50011-2
+UR  - http://dx.doi.org/10.1016/b978-0-12-599661-7.50011-2
+TI  - Towards A History of Cantor's Continuum Problem
+T2  - Ideas and their Reception
+AU  - Moore, Gregory H.
+PY  - 1989
+PB  - Elsevier
+SP  - 78-121
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00407-021-00285-0
+UR  - http://dx.doi.org/10.1007/s00407-021-00285-0
+TI  - Peirce’s Dragon-Head Logic (R 501, 1901)
+T2  - Archive for History of Exact Sciences
+AU  - Ma, Minghui
+AU  - Pietarinen, Ahti-Veikko
+PY  - 2022
+DA  - 2022/02/24
+PB  - Springer Science and Business Media LLC
+SP  - 261-317
+IS  - 3
+VL  - 76
+SN  - 0003-9519
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.0026-7902.2005.00267.x
+UR  - http://dx.doi.org/10.1111/j.0026-7902.2005.00267.x
+TI  - Common Ground between Form and Content: The Pragmatic Solution to the Bootstrapping Problem
+T2  - The Modern Language Journal
+AU  - OLLER, JOHN W.
+PY  - 2005
+DA  - 2005/03
+PB  - Wiley
+SP  - 92-114
+IS  - 1
+VL  - 89
+SN  - 0026-7902
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/01445340.2011.555506
+UR  - http://dx.doi.org/10.1080/01445340.2011.555506
+TI  - Existential Graphs: What a Diagrammatic Logic of Cognition Might Look Like
+T2  - History and Philosophy of Logic
+AU  - Pietarinen, Ahti-Veikko
+PY  - 2011
+DA  - 2011/08
+PB  - Informa UK Limited
+SP  - 265-281
+IS  - 3
+VL  - 32
+SN  - 0144-5340
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/0315-0860(82)90125-2
+UR  - http://dx.doi.org/10.1016/0315-0860(82)90125-2
+TI  - Peirce's place in mathematics
+T2  - Historia Mathematica
+AU  - Dauben, Joseph W
+PY  - 1982
+DA  - 1982/08
+PB  - Elsevier BV
+SP  - 311-325
+IS  - 3
+VL  - 9
+SN  - 0315-0860
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.jal.2017.12.002
+UR  - http://dx.doi.org/10.1016/j.jal.2017.12.002
+TI  - Reprint of: Assertion and denial: A contribution from logical notations
+T2  - Journal of Applied Logic
+AU  - Pietarinen, Ahti-Veikko
+AU  - Bellucci, Francesco
+PY  - 2017
+DA  - 2017/12
+PB  - Elsevier BV
+SP  - S3-S24
+VL  - 25
+SN  - 1570-8683
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.1600-0498.1996.tb00605.x
+UR  - http://dx.doi.org/10.1111/j.1600-0498.1996.tb00605.x
+TI  - Charles S. Peirce, Evolutionary Pragmatism and the History of Science
+T2  - Centaurus
+AU  - Dauben, Joseph W.
+PY  - 1996
+DA  - 1996/01
+PB  - Brepols Publishers NV
+SP  - 22-82
+IS  - 1
+VL  - 38
+SN  - 0008-8994
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/s1755020315000362
+UR  - http://dx.doi.org/10.1017/s1755020315000362
+TI  - EXISTENTIAL GRAPHS AS AN INSTRUMENT OF LOGICAL ANALYSIS: PART I. ALPHA
+T2  - The Review of Symbolic Logic
+AU  - BELLUCCI, FRANCESCO
+AU  - PIETARINEN, AHTI-VEIKKO
+PY  - 2016
+DA  - 2016/02/26
+PB  - Cambridge University Press (CUP)
+SP  - 209-237
+IS  - 2
+VL  - 9
+SN  - 1755-0203
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/s1755020309990293
+UR  - http://dx.doi.org/10.1017/s1755020309990293
+TI  - RELEVANCE LOGIC AND THE CALCULUS OF RELATIONS
+T2  - The Review of Symbolic Logic
+AU  - MADDUX, ROGER D.
+PY  - 2010
+DA  - 2010/01/22
+PB  - Cambridge University Press (CUP)
+SP  - 41-70
+IS  - 1
+VL  - 3
+SN  - 1755-0203
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11168-005-1286-0
+UR  - http://dx.doi.org/10.1007/s11168-005-1286-0
+TI  - A Computational Algebraic Approach to Latin Grammar
+T2  - Research on Language and Computation
+AU  - Casadio, Claudia
+AU  - Lambek, Jim
+PY  - 2005
+DA  - 2005/04
+PB  - Springer Science and Business Media LLC
+SP  - 45-60
+IS  - 1
+VL  - 3
+SN  - 1570-7075
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10849-006-9035-9
+UR  - http://dx.doi.org/10.1007/s10849-006-9035-9
+TI  - From word to sentence: a pregroup analysis of the object pronoun who(m)
+T2  - Journal of Logic, Language and Information
+AU  - Lambek, J.
+PY  - 2007
+DA  - 2007/02/27
+PB  - Springer Science and Business Media LLC
+SP  - 303-323
+IS  - 3
+VL  - 16
+SN  - 0925-8531
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-12030-0_3
+UR  - http://dx.doi.org/10.1007/978-3-319-12030-0_3
+TI  - Despite Kempe, the Modest Place of Multisets and Multiclasses in Foundational Theories
+T2  - Trends in the History of Science
+AU  - Grattan-Guinness, Ivor
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 51-63
+SN  - 2297-2951
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-22258-5_10
+UR  - http://dx.doi.org/10.1007/978-3-319-22258-5_10
+TI  - The Influence of Arthur Cayley and Alfred Kempe on Charles Peirce’s Diagrammatic Logic
+T2  - Research in History and Philosophy of Mathematics
+AU  - Abeles, Francine F.
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 139-148
+SN  - 9783319222578
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11229-021-03318-x
+UR  - http://dx.doi.org/10.1007/s11229-021-03318-x
+TI  - Calculus as method or calculus as rules? Boole and Frege on the aims of a logical calculus
+T2  - Synthese
+AU  - Waszek, David
+AU  - Schlimm, Dirk
+PY  - 2021
+DA  - 2021/07/29
+PB  - Springer Science and Business Media LLC
+SP  - 11913-11943
+IS  - 5-6
+VL  - 199
+SN  - 0039-7857
+ER  - 
+
+TY  - CPAPER
+DO  - 10.1142/9789814508728_0003
+UR  - http://dx.doi.org/10.1142/9789814508728_0003
+TI  - Pragmatic Information
+T2  - Biological Information
+AU  - Oller, John W.
+PY  - 2013
+DA  - 2013/05/31
+PB  - WORLD SCIENTIFIC
+ER  - 
+
+TY  - JOUR
+DO  - 10.2307/2902910
+UR  - http://dx.doi.org/10.2307/2902910
+TI  - Peirce, Visuality, and Art
+T2  - Representations
+AU  - Leja, Michael
+PY  - 2000
+PB  - University of California Press
+SP  - 97-122
+VL  - 72
+SN  - 0734-6018
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/sem-2017-0156
+UR  - http://dx.doi.org/10.1515/sem-2017-0156
+TI  - Language mediated mentalization: A proposed model
+T2  - Semiotica
+AU  - Neuman, Yair
+PY  - 2019
+DA  - 2019/02/13
+PB  - Walter de Gruyter GmbH
+SP  - 261-272
+IS  - 227
+VL  - 2019
+SN  - 1613-3692
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.jal.2017.01.001
+UR  - http://dx.doi.org/10.1016/j.jal.2017.01.001
+TI  - Assertion and denial: A contribution from logical notations
+T2  - Journal of Applied Logic
+AU  - Pietarinen, Ahti-Veikko
+AU  - Bellucci, Francesco
+PY  - 2017
+DA  - 2017/12
+PB  - Elsevier BV
+SP  - 1-22
+VL  - 25
+SN  - 1570-8683
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10699-011-9228-9
+UR  - http://dx.doi.org/10.1007/s10699-011-9228-9
+TI  - Stevin Numbers and Reality
+T2  - Foundations of Science
+AU  - Katz, Karin Usadi
+AU  - Katz, Mikhail G.
+PY  - 2011
+DA  - 2011/05/13
+PB  - Springer Science and Business Media LLC
+SP  - 109-123
+IS  - 2
+VL  - 17
+SN  - 1233-1821
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/0265532211417212
+UR  - http://dx.doi.org/10.1177/0265532211417212
+TI  - Grounding the argument-based framework for validating score interpretations and uses
+T2  - Language Testing
+AU  - Oller, John W.
+PY  - 2012
+DA  - 2012/01
+PB  - SAGE Publications
+SP  - 29-36
+IS  - 1
+VL  - 29
+SN  - 0265-5322
+ER  - 
+
+TY  - GENERIC
+DO  - 10.5772/intechopen.68613
+UR  - http://dx.doi.org/10.5772/intechopen.68613
+TI  - The Post‐Modern Transcendental of Language in Science and Philosophy
+T2  - Epistemology and Transformation of Knowledge in Global Age
+AU  - Basti, Gianfranco
+PY  - 2017
+DA  - 2017/07/26
+PB  - InTech
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-444-52937-4.50005-8
+UR  - http://dx.doi.org/10.1016/b978-0-444-52937-4.50005-8
+TI  - A History of Truth-Values
+T2  - Handbook of the History of Logic
+AU  - Béziau, Jean-Yves
+PY  - 2012
+PB  - Elsevier
+SP  - 235-307
+SN  - 1874-5857
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/semi.2004.022
+UR  - http://dx.doi.org/10.1515/semi.2004.022
+TI  - Signs and phylogeny: A semiotic approach to systematics
+T2  - Semiotica
+AU  - Vogt, Lars
+PY  - 2004
+DA  - 2004/01/26
+PB  - Walter de Gruyter GmbH
+IS  - 149
+VL  - 2004
+SN  - 0037-1998
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/09296170701379336
+UR  - http://dx.doi.org/10.1080/09296170701379336
+TI  - Episodic organization in discourse and valid measurement in the sciences*
+T2  - Journal of Quantitative Linguistics
+AU  - Oller, John W.
+AU  - Chen, Liang
+PY  - 2007
+DA  - 2007/08
+PB  - Informa UK Limited
+SP  - 127-144
+IS  - 2-3
+VL  - 14
+SN  - 0929-6174
+ER  - 
+
+TY  - JOUR
+DO  - 10.2478/lf-2018-0004
+UR  - http://dx.doi.org/10.2478/lf-2018-0004
+TI  - Overcoming Dyadic Boundaries: Reading Poetic Experience after the Semiotics and Pragmatism of Charles S. Peirce
+T2  - Linguistic Frontiers
+AU  - da Costa e Silva, Tiago
+PY  - 2018
+DA  - 2018/03/01
+PB  - Walter de Gruyter GmbH
+SP  - 1-13
+IS  - 1
+VL  - 1
+SN  - 2544-6339
+ER  - 
+
+TY  - GENERIC
+DO  - 10.31338/uw.9788323531111
+UR  - http://dx.doi.org/10.31338/uw.9788323531111
+TI  - Argumenty i modyfikatory w gramatyce i w słowniku
+AU  - Przepiórkowski, Adam
+PY  - 2017
+PB  - Warsaw University Press
+SN  - 9788323531111
+ER  - 

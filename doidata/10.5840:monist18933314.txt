@@ -1,0 +1,79 @@
+TY  - GENERIC
+DO  - 10.1002/9780470015902.a0024143
+UR  - http://dx.doi.org/10.1002/9780470015902.a0024143
+TI  - Determinism and Total Explanation in the Biological and Behavioral Sciences
+T2  - eLS
+AU  - Winther, Rasmus Grønfeldt
+PY  - 2014
+DA  - 2014/07/15
+PB  - Wiley
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4615-9661-5_14
+UR  - http://dx.doi.org/10.1007/978-1-4615-9661-5_14
+TI  - Structuralism and the Divided American Thought: A Short Glossary of Terms
+T2  - Cosmology, Physics, and Philosophy
+AU  - Gal-Or, Benjamin
+PY  - 1987
+PB  - Springer US
+SP  - 467-481
+SN  - 9781461596639
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/1469-5812.00032
+UR  - http://dx.doi.org/10.1111/1469-5812.00032
+TI  - Dewey, Derrida, and ‘the Double Bind’
+T2  - Educational Philosophy and Theory
+AU  - Garrison, Jim
+PY  - 2003
+DA  - 2003/01
+PB  - Informa UK Limited
+SP  - 349-362
+IS  - 3
+VL  - 35
+SN  - 0013-1857
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/educationdidactique.2598
+UR  - http://dx.doi.org/10.4000/educationdidactique.2598
+TI  - Plans, Takes, and Mis-takes
+T2  - Éducation et didactique
+AU  - Klemp, Nathaniel
+AU  - McDermott, Ray
+AU  - Duque, Jason
+AU  - Thibeault, Matthew
+AU  - Powell, Kimberly
+AU  - Levitin, Daniel J.
+PY  - 2016
+DA  - 2016/12/19
+PB  - OpenEdition
+SP  - 105-120
+IS  - 3
+VL  - 10
+SN  - 1956-3485
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-50730-9_3
+UR  - http://dx.doi.org/10.1007/978-3-319-50730-9_3
+TI  - Classical Pragmatism and Metaphysics: James and Peirce on Scientific Determinism
+T2  - Vienna Circle Institute Yearbook
+AU  - Romizi, Donata
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 43-66
+SN  - 0929-6328
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-012373552-2/50015-1
+UR  - http://dx.doi.org/10.1016/b978-012373552-2/50015-1
+TI  - References
+T2  - Info-Gap Decision Theory
+PY  - 2006
+PB  - Elsevier
+SP  - 347-356
+ER  - 

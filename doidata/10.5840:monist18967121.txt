@@ -1,0 +1,113 @@
+TY  - JOUR
+DO  - 10.20981/kaygi.893234
+UR  - http://dx.doi.org/10.20981/kaygi.893234
+TI  - Megaralı Philon’da Koşullu Önerme Anlayışı ve Modern Mantıkta Maddi İçerme Kavramının Oluşumu
+T2  - Kaygı. Uludağ Üniversitesi Fen-Edebiyat Fakültesi Felsefe Dergisi
+AU  - KAYAR, Esma
+PY  - 2021
+DA  - 2021/03/15
+PB  - Kaygi
+SP  - 325-345
+SN  - 2645-8950
+ER  - 
+
+TY  - JOUR
+DO  - 10.1143/ptps.e65.135
+UR  - http://dx.doi.org/10.1143/ptps.e65.135
+TI  - Conditional Probability in Physics
+T2  - Progress of Theoretical Physics Supplement
+AU  - Watanabe, S.
+PY  - 2013
+DA  - 2013/05/16
+PB  - Oxford University Press (OUP)
+SP  - 135-160
+IS  - 0
+VL  - E65
+SN  - 0375-9687
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11787-009-0006-1
+UR  - http://dx.doi.org/10.1007/s11787-009-0006-1
+TI  - Russell and His Sources for Non-Classical Logics
+T2  - Logica Universalis
+AU  - Anellis, Irving H.
+PY  - 2009
+DA  - 2009/08/05
+PB  - Springer Science and Business Media LLC
+SP  - 153-218
+IS  - 2
+VL  - 3
+SN  - 1661-8297
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10992-020-09563-8
+UR  - http://dx.doi.org/10.1007/s10992-020-09563-8
+TI  - Counterfactual Logic and the Necessity of Mathematics
+T2  - Journal of Philosophical Logic
+AU  - Elgin, Samuel Z.
+PY  - 2020
+DA  - 2020/06/26
+PB  - Springer Science and Business Media LLC
+SP  - 97-115
+IS  - 1
+VL  - 50
+SN  - 0022-3611
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00407-021-00285-0
+UR  - http://dx.doi.org/10.1007/s00407-021-00285-0
+TI  - Peirce’s Dragon-Head Logic (R 501, 1901)
+T2  - Archive for History of Exact Sciences
+AU  - Ma, Minghui
+AU  - Pietarinen, Ahti-Veikko
+PY  - 2022
+DA  - 2022/02/24
+PB  - Springer Science and Business Media LLC
+SP  - 261-317
+IS  - 3
+VL  - 76
+SN  - 0003-9519
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511611162.003
+UR  - http://dx.doi.org/10.1017/cbo9780511611162.003
+TI  - Contemporary Socio-Cultural Research
+T2  - The Cambridge Handbook of Sociocultural Psychology
+AU  - Valsiner, Jaan
+AU  - Rosa, Alberto
+PY  - 2001
+DA  - 2001/01/01
+PB  - Cambridge University Press
+SP  - 1-20
+SN  - 9780511611162
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/rel8080147
+UR  - http://dx.doi.org/10.3390/rel8080147
+TI  - Auguste Comte and Consensus Formation in American Religious Thought—Part 1: The Creation of Consensus
+T2  - Religions
+AU  - Sacks, Kenneth
+PY  - 2017
+DA  - 2017/08/10
+PB  - MDPI AG
+SP  - 147
+IS  - 8
+VL  - 8
+SN  - 2077-1444
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-444-51555-1.50013-4
+UR  - http://dx.doi.org/10.1016/b978-0-444-51555-1.50013-4
+TI  - FICTIONALISM
+T2  - Philosophy of Mathematics
+AU  - Bonevac, Daniel
+PY  - 2009
+PB  - Elsevier
+SP  - 345-393
+ER  - 

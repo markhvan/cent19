@@ -1,0 +1,1161 @@
+TY  - JOUR
+DO  - 10.1007/s00146-020-01026-7
+UR  - http://dx.doi.org/10.1007/s00146-020-01026-7
+TI  - Artificial intelligence, culture and education
+T2  - AI &amp; SOCIETY
+AU  - Kulikov, Sergey B.
+AU  - Shirokova, Anastasiya V.
+PY  - 2020
+DA  - 2020/07/30
+PB  - Springer Science and Business Media LLC
+SP  - 305-318
+IS  - 1
+VL  - 36
+SN  - 0951-5666
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0022
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0022
+TI  - 21 Consciousness
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 594-603
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0016
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0016
+TI  - 15 Behavior
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 461-478
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-010
+UR  - http://dx.doi.org/10.1215/9781478021872-010
+TI  - Bibliography
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 157-172
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.002
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.002
+TI  - Motivations
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 1-16
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-67115-0_8
+UR  - http://dx.doi.org/10.1007/978-3-030-67115-0_8
+TI  - Biosemiotics, Holistic Biology and Self-Actualization
+T2  - Biosemiotics
+AU  - Goldberg, Gary
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 141-153
+SN  - 1875-4651
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0025
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0025
+TI  - 24 Mind and Brain (Body)
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 666-677
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0013
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0013
+TI  - 12 Representational Semiotics
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 378-422
+SN  - 0199608482
+ER  - 
+
+TY  - EDBOOK
+DO  - 10.1093/acprof:oso/9780199608485.001.0001
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.001.0001
+TI  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.crsust.2019.09.001
+UR  - http://dx.doi.org/10.1016/j.crsust.2019.09.001
+TI  - Quantifying sustainable balance in ecosystem configurations
+T2  - Current Research in Environmental Sustainability
+AU  - Ulanowicz, Robert E.
+PY  - 2020
+DA  - 2020/01
+PB  - Elsevier BV
+SP  - 1-6
+VL  - 1
+SN  - 2666-0490
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.009
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.009
+TI  - Whole–part models of SDA
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 207-213
+SN  - 9780521801560
+ER  - 
+
+TY  - JOUR
+DO  - 10.11612/resphil.1868
+UR  - http://dx.doi.org/10.11612/resphil.1868
+TI  - A Curse on Both Houses: Naturalistic Versus A Priori Metaphysics and the Problem of Progress
+T2  - Res Philosophica
+AU  - McKenzie, Kerry
+PY  - 2020
+PB  - Philosophy Documentation Center
+SP  - 1-29
+IS  - 1
+VL  - 97
+SN  - 2168-9105
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-03633-1_4
+UR  - http://dx.doi.org/10.1007/978-3-030-03633-1_4
+TI  - The Unification Power of Symmetry
+T2  - Information—Consciousness—Reality
+AU  - Glattfelder, James B.
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 93-138
+SN  - 1612-3018
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.004
+UR  - http://dx.doi.org/10.1017/9781108877329.004
+TI  - Totality
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 77-111
+SN  - 9781108877329
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10701-020-00318-8
+UR  - http://dx.doi.org/10.1007/s10701-020-00318-8
+TI  - Randomness? What Randomness?
+T2  - Foundations of Physics
+AU  - Landsman, Klaas
+PY  - 2020
+DA  - 2020/01/18
+PB  - Springer Science and Business Media LLC
+SP  - 61-104
+IS  - 2
+VL  - 50
+SN  - 0015-9018
+ER  - 
+
+TY  - BOOK
+DO  - 10.1017/cbo9780511610035
+UR  - http://dx.doi.org/10.1017/cbo9780511610035
+TI  - Divine Action and Modern Science
+AU  - Saunders, Nicholas
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0003
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0003
+TI  - 2 Quantum and Classical Information and Entropy
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 33-65
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0009
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0009
+TI  - 8 The Organism as a Semiotic and Cybernetic System
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 248-274
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.005
+UR  - http://dx.doi.org/10.1017/9781108877329.005
+TI  - Capital as Totality
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 112-152
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0014
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0014
+TI  - 13 The Brain as an Information‐Control System
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 423-439
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0005
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0005
+TI  - 4 Vision
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 104-134
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0015
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0015
+TI  - 14 Decisional, Emotional, and Cognitive Systems
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 440-460
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-134
+UR  - http://dx.doi.org/10.1215/9781478021872-134
+TI  - Glossary
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 134-142
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0018
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0018
+TI  - 17 Memory
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 494-512
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.003
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.003
+TI  - Theological approaches to divine action
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 17-47
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.001
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.001
+TI  - Preface
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - ix-xviii
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-001
+UR  - http://dx.doi.org/10.1215/9781478021872-001
+TI  - Introduction
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 1-11
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0020
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0020
+TI  - 19 What Symbols Are
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 562-572
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s42438-021-00278-w
+UR  - http://dx.doi.org/10.1007/s42438-021-00278-w
+TI  - The Struggling Towards a Transdisciplinary Metaphysics
+T2  - Postdigital Science and Education
+AU  - Gibbs, Paul
+PY  - 2021
+DA  - 2021/12/01
+PB  - Springer Science and Business Media LLC
+SP  - 649-657
+IS  - 3
+VL  - 4
+SN  - 2524-485X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.008
+UR  - http://dx.doi.org/10.1017/9781108877329.008
+TI  - Works Cited
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 205-212
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0011
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0011
+TI  - 10 Ontogeny
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 317-334
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0024
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0024
+TI  - 23 Language
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 625-665
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.001
+UR  - http://dx.doi.org/10.1017/9781108877329.001
+TI  - Introduction
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 1-14
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.007
+UR  - http://dx.doi.org/10.1017/9781108877329.007
+TI  - Conclusion
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 193-204
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0026
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0026
+TI  - 25 Final Philosophical Remarks
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 678-687
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.011
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.011
+TI  - References
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 217-229
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0002
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0002
+TI  - 1 Quantum Mechanics as a General Framework
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 7-32
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.006
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.006
+TI  - Divine action and quantum theory
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 94-126
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0001
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0001
+TI  - Introduction
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 1-4
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-009
+UR  - http://dx.doi.org/10.1215/9781478021872-009
+TI  - Notes
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 143-155
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.003
+UR  - http://dx.doi.org/10.1017/9781108877329.003
+TI  - Opposition
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 44-76
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0023
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0023
+TI  - 22 Development and Culture
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 604-624
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf00869449
+UR  - http://dx.doi.org/10.1007/bf00869449
+TI  - Varieties of modal (classificatory) and comparative probability
+T2  - Synthese
+AU  - Walley, Peter
+AU  - Fine, Terrence L.
+PY  - 1979
+DA  - 1979/07
+PB  - Springer Science and Business Media LLC
+SP  - 321-374
+IS  - 3
+VL  - 41
+SN  - 0039-7857
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-017-3391-5_2
+UR  - http://dx.doi.org/10.1007/978-94-017-3391-5_2
+TI  - How Numerical Sociology Began by Counting Suicides: From Medical Pathology to Social Pathology
+T2  - Boston Studies in the Philosophy of Science
+AU  - Hacking, Ian
+PY  - 1994
+PB  - Springer Netherlands
+SP  - 101-133
+SN  - 0068-0346
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.006
+UR  - http://dx.doi.org/10.1017/9781108877329.006
+TI  - The Necessity of Totality
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 153-192
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-004
+UR  - http://dx.doi.org/10.1215/9781478021872-004
+TI  - Toxic Late Liberalism
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 36-59
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.005
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.005
+TI  - Determinism and SDA
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 83-93
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0007
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0007
+TI  - 6 Complexity: A Necessary Condition
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 153-197
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-50730-9_3
+UR  - http://dx.doi.org/10.1007/978-3-319-50730-9_3
+TI  - Classical Pragmatism and Metaphysics: James and Peirce on Scientific Determinism
+T2  - Vienna Circle Institute Yearbook
+AU  - Romizi, Donata
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 43-66
+SN  - 0929-6328
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-74938-9_4
+UR  - http://dx.doi.org/10.1007/978-3-319-74938-9_4
+TI  - Scientific Research and Truth
+T2  - Logic, Argumentation &amp; Reasoning
+AU  - Barrotta, Pierluigi
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 83-106
+SN  - 2214-9120
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0009
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0009
+TI  - List of abbreviations
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - xix-xx
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0005
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0005
+TI  - Foreword
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - vii-viii
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.1467-9744.2010.01143.x
+UR  - http://dx.doi.org/10.1111/j.1467-9744.2010.01143.x
+TI  - FROM PESSIMISM TO HOPE: A NATURAL PROGRESSION
+T2  - Zygon®
+AU  - Ulanowicz, Robert E.
+PY  - 2010
+DA  - 2010/11/14
+PB  - Wiley
+SP  - 939-956
+IS  - 4
+VL  - 45
+SN  - 0591-2385
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/0260107914560864
+UR  - http://dx.doi.org/10.1177/0260107914560864
+TI  - Methodology of the Social Sciences in the Age of Complexity: Unity, Autonomy or Integration?
+T2  - Journal of Interdisciplinary Economics
+AU  - Nachane, Dilip M.
+PY  - 2015
+DA  - 2015/01
+PB  - SAGE Publications
+SP  - 1-32
+IS  - 1
+VL  - 27
+SN  - 0260-1079
+ER  - 
+
+TY  - JOUR
+DO  - 10.7202/1074736ar
+UR  - http://dx.doi.org/10.7202/1074736ar
+TI  - Encaisser l’horreur
+T2  - Sociologie et sociétés
+AU  - Boukir, Kamel
+PY  - 2021
+DA  - 2021/01/22
+PB  - Consortium Erudit
+SP  - 225-247
+IS  - 1-2
+VL  - 51
+SN  - 1492-1375
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-003
+UR  - http://dx.doi.org/10.1215/9781478021872-003
+TI  - The Four Axioms of Existence
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 15-35
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0004
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0004
+TI  - 3 The Brain: An Outlook
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 66-103
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.866
+UR  - http://dx.doi.org/10.4000/ejpap.866
+TI  - Peirce’s Post-Jamesian Pragmatism
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Houser, Nathan
+PY  - 2011
+DA  - 2011/07/01
+PB  - OpenEdition
+IS  - 1
+VL  - III
+SN  - 2036-4091
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-131
+UR  - http://dx.doi.org/10.1215/9781478021872-131
+TI  - Postscript
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 131-133
+SN  - 9781478021872
+ER  - 
+
+TY  - BOOK
+DO  - 10.1017/9781108877329
+UR  - http://dx.doi.org/10.1017/9781108877329
+TI  - Hegel's Ontology of Power
+AU  - Abazari, Arash
+PY  - 2020
+DA  - 2020/07/10
+PB  - Cambridge University Press
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0006
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0006
+TI  - Author's Preface
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - ix-x
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-35092-9_2
+UR  - http://dx.doi.org/10.1007/978-3-319-35092-9_2
+TI  - Cybersemiotics as a Transdisciplinary Model for Interdisciplinary Biosemiotic Pharmacology and Medicine
+T2  - Biosemiotic Medicine
+AU  - Brier, Søren
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 23-84
+SN  - 2211-8918
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.010
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.010
+TI  - Is SDA really tenable?
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 214-216
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.4000/books.septentrion.73924
+UR  - http://dx.doi.org/10.4000/books.septentrion.73924
+TI  - Le nouveau visage du hasard
+T2  - Le moment 1900 en philosophie
+AU  - Barberousse, Anouk
+PY  - 2004
+PB  - Presses universitaires du Septentrion
+SP  - 189-196
+SN  - 9782859398248
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.002
+UR  - http://dx.doi.org/10.1017/9781108877329.002
+TI  - Illusion or Semblance
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 15-43
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0017
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0017
+TI  - 16 Learning
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 479-493
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0010
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0010
+TI  - 9 Phylogeny
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 275-316
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0012
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0012
+TI  - 11 Epigeny
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 335-377
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/1746-8361.12279
+UR  - http://dx.doi.org/10.1111/1746-8361.12279
+TI  - Towards a Reformed Liberal<i>and</i>Scientific Naturalism
+T2  - Dialectica
+AU  - Christias, Dionysis
+PY  - 2019
+DA  - 2019/12
+PB  - Verein philosophie.ch
+SP  - 507-534
+IS  - 4
+VL  - 73
+SN  - 0012-2017
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-006
+UR  - http://dx.doi.org/10.1215/9781478021872-006
+TI  - Atomic Ends
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 63-85
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-007
+UR  - http://dx.doi.org/10.1215/9781478021872-007
+TI  - Toxic Ends
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 86-111
+SN  - 9781478021872
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0004
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0004
+TI  - Dedication
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - v-vi
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/00213624.1990.11505001
+UR  - http://dx.doi.org/10.1080/00213624.1990.11505001
+TI  - Institutional Dynamics, Deterministic Chaos, and Self-Organizing Systems
+T2  - Journal of Economic Issues
+AU  - Radzicki, Michael J.
+PY  - 1990
+DA  - 1990/03
+PB  - Informa UK Limited
+SP  - 57-102
+IS  - 1
+VL  - 24
+SN  - 0021-3624
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0006
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0006
+TI  - 5 Dealing with Target Motion and Our Own Movement
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 135-150
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/terrain.23884
+UR  - http://dx.doi.org/10.4000/terrain.23884
+TI  - « Suis-je le gardien de mon frère ? »
+T2  - Terrain
+AU  - Boukir, Kamel
+PY  - 2022
+DA  - 2022/09/23
+PB  - OpenEdition
+SP  - 90-109
+IS  - 77
+SN  - 0760-5668
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.008
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.008
+TI  - Chaos Theory and divine action
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 173-206
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0021
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0021
+TI  - 20 Intentionality and Conceptualization
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 573-593
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0008
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0008
+TI  - 7 General Features of Life
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 198-247
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.007
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.007
+TI  - Does God cheat at dice?
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 127-172
+SN  - 9780521801560
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/(sici)1099-1735(199609)13:3<229::aid-sres96>3.0.co;2-b
+UR  - http://dx.doi.org/10.1002/(sici)1099-1735(199609)13:3<229::aid-sres96>3.0.co;2-b
+TI  - From second-order cybernetics to cybersemiotics: A semiotic re-entry into the second-order cybernetics of Heinz von Foerster
+T2  - Systems Research
+AU  - Brier, Søren
+PY  - 1996
+DA  - 1996/09
+PB  - Wiley
+SP  - 229-244
+IS  - 3
+VL  - 13
+SN  - 0731-7239
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0003
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0003
+TI  - Copyright Page
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - iv-iv
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4020-6706-8_14
+UR  - http://dx.doi.org/10.1007/978-1-4020-6706-8_14
+TI  - Bateson and Peirce on the Pattern that Connects and the Sacred
+T2  - Biosemiotics
+AU  - Brier, Søren
+PY  - 2008
+PB  - Springer Netherlands
+SP  - 229-255
+SN  - 1875-4651
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9780511610035.004
+UR  - http://dx.doi.org/10.1017/cbo9780511610035.004
+TI  - The laws of nature and miracles
+T2  - Divine Action and Modern Science
+PY  - 2002
+DA  - 2002/10/31
+PB  - Cambridge University Press
+SP  - 48-82
+SN  - 9780521801560
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/9781108877329.009
+UR  - http://dx.doi.org/10.1017/9781108877329.009
+TI  - Index
+T2  - Hegel's Ontology of Power
+PY  - 2020
+DA  - 2020/07/31
+PB  - Cambridge University Press
+SP  - 213-218
+SN  - 9781108877329
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0019
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0019
+TI  - 18 The Basic Symbolic Systems
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 515-561
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1215/9781478021872-008
+UR  - http://dx.doi.org/10.1215/9781478021872-008
+TI  - Conceptual Ends
+T2  - Between Gaia and Ground
+PY  - 2021
+DA  - 2021/08/13
+PB  - Duke University Press
+SP  - 112-130
+SN  - 9781478021872
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11196-022-09912-7
+UR  - http://dx.doi.org/10.1007/s11196-022-09912-7
+TI  - How to Undo (and Redo) Words with Facts: A Semio-enactivist Approach to Law, Space and Experience
+T2  - International Journal for the Semiotics of Law - Revue internationale de Sémiotique juridique
+AU  - Ricca, Mario
+PY  - 2022
+DA  - 2022/06/11
+PB  - Springer Science and Business Media LLC
+SP  - 313-367
+IS  - 1
+VL  - 36
+SN  - 0952-8059
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66086-8_2
+UR  - http://dx.doi.org/10.1007/978-3-319-66086-8_2
+TI  - The Historical and Cultural Context
+T2  - Synthese Library
+AU  - Raspa, Venanzio
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 15-26
+SN  - 0166-6991
+ER  - 
+
+TY  - JOUR
+DO  - 10.1086/695760
+UR  - http://dx.doi.org/10.1086/695760
+TI  - “Protoplasm Feels”: The Role of Physiology in Charles Sanders Peirce’s Evolutionary Metaphysics
+T2  - HOPOS: The Journal of the International Society for the History of Philosophy of Science
+AU  - Pearce, Trevor
+PY  - 2018
+DA  - 2018/03
+PB  - University of Chicago Press
+SP  - 28-61
+IS  - 1
+VL  - 8
+SN  - 2152-5188
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0007
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0007
+TI  - Epigraph
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - xi-xii
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-26300-7_2
+UR  - http://dx.doi.org/10.1007/978-3-319-26300-7_2
+TI  - Conceptual and Historical Reflections on Chance (and Related Concepts)
+T2  - The Frontiers Collection
+AU  - Lüthy, Christoph H.
+AU  - Palmerino, Carla Rita
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 9-47
+SN  - 1612-3018
+ER  - 

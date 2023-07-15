@@ -1,0 +1,830 @@
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0023
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0023
+TI  - 22 Development and Culture
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 604-624
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0007
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0007
+TI  - 6 Complexity: A Necessary Condition
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 153-197
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0022
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0022
+TI  - 21 Consciousness
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 594-603
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/e12040631
+UR  - http://dx.doi.org/10.3390/e12040631
+TI  - The Antithesis of Entropy: Biosemiotic Communication from Genetics to Human Language with Special Emphasis on the Immune Systems
+T2  - Entropy
+AU  - Oller, John W.
+PY  - 2010
+DA  - 2010/03/31
+PB  - MDPI AG
+SP  - 631-705
+IS  - 4
+VL  - 12
+SN  - 1099-4300
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0016
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0016
+TI  - 15 Behavior
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 461-478
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1163/2666318x-bja00009
+UR  - http://dx.doi.org/10.1163/2666318x-bja00009
+TI  - American Women in the Transcendental and Pragmatist Movements
+T2  - Journal of the History of Women Philosophers and Scientists
+AU  - Bensick, Carol
+PY  - 2022
+DA  - 2022/11/11
+PB  - Brill
+SP  - 158-178
+IS  - 2
+VL  - 1
+SN  - 2666-3171
+ER  - 
+
+TY  - JOUR
+DO  - 10.18778/0208-6107.34.02
+UR  - http://dx.doi.org/10.18778/0208-6107.34.02
+TI  - Does Philosophy Require De-Transcendentalization? Habermas, Apel, and the Role of Transcendentals in Philosophical Discourse and Social-Scientific Explanation
+T2  - Acta Universitatis Lodziensis. Folia Philosophica. Ethica-Aesthetica-Practica
+AU  - Michalska, Anna
+PY  - 2019
+DA  - 2019/12/30
+PB  - Uniwersytet Lodzki (University of Lodz)
+SP  - 11-30
+IS  - 34
+SN  - 2353-9631
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/erea.195
+UR  - http://dx.doi.org/10.4000/erea.195
+TI  - Awkward Realism: Objects of Coercion in What Maisie Knew &amp; The Awkward Age
+T2  - E-rea
+AU  - HARDING, Adrian
+PY  - 2007
+DA  - 2007/06/15
+PB  - OpenEdition
+IS  - 5.1
+SN  - 1638-1718
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0025
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0025
+TI  - 24 Mind and Brain (Body)
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 666-677
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.5325/philrhet.50.4.0566
+UR  - http://dx.doi.org/10.5325/philrhet.50.4.0566
+TI  - Replicating Reasons: Arguments, Memes, and the Cognitive Environment
+T2  - Philosophy &amp; Rhetoric
+AU  - Tindale, Christopher W.
+PY  - 2017
+DA  - 2017/11
+PB  - The Pennsylvania State University Press
+SP  - 566-588
+IS  - 4
+VL  - 50
+SN  - 0031-8213
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05002-3_5
+UR  - http://dx.doi.org/10.1007/978-3-030-05002-3_5
+TI  - A Massive System of Urgency: Susan Howe’s Pierce-Arrow
+T2  - Phenomenology and the Late Twentieth-Century American Long Poem
+AU  - Carbery, Matthew
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 125-155
+SN  - 9783030050016
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0020
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0020
+TI  - 19 What Symbols Are
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 562-572
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0009
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0009
+TI  - List of abbreviations
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - xix-xx
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0005
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0005
+TI  - Foreword
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - vii-viii
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/s1380203818000077
+UR  - http://dx.doi.org/10.1017/s1380203818000077
+TI  - Earth flows and lively stone. What differences does ‘vibrant’ matter make?
+T2  - Archaeological Dialogues
+AU  - Cipolla, Craig N.
+PY  - 2018
+DA  - 2018/05/11
+PB  - Cambridge University Press (CUP)
+SP  - 49-70
+IS  - 1
+VL  - 25
+SN  - 1380-2038
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0013
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0013
+TI  - 12 Representational Semiotics
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 378-422
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-03633-1_5
+UR  - http://dx.doi.org/10.1007/978-3-030-03633-1_5
+TI  - The Two Volumes of the Book of Nature
+T2  - Information—Consciousness—Reality
+AU  - Glattfelder, James B.
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 139-180
+SN  - 1612-3018
+ER  - 
+
+TY  - EDBOOK
+DO  - 10.1093/acprof:oso/9780199608485.001.0001
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.001.0001
+TI  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.3917/ems.gilbe.2021.02.0261
+UR  - http://dx.doi.org/10.3917/ems.gilbe.2021.02.0261
+TI  - Chapitre 11. L’instrumentation de gestion à la lumière acétylénique de Peirce
+T2  - Philosophie et outils de gestion
+AU  - Panjeta, Alvin
+PY  - 2021
+DA  - 2021/12/01
+PB  - EMS Editions
+SP  - 261-280
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0004
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0004
+TI  - Dedication
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - v-vi
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0006
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0006
+TI  - 5 Dealing with Target Motion and Our Own Movement
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 135-150
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0004
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0004
+TI  - 3 The Brain: An Outlook
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 66-103
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0011
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0011
+TI  - 10 Ontogeny
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 317-334
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11229-013-0337-6
+UR  - http://dx.doi.org/10.1007/s11229-013-0337-6
+TI  - Peirce’s topical theory of continuity
+T2  - Synthese
+AU  - Moore, Matthew E.
+PY  - 2013
+DA  - 2013/09/21
+PB  - Springer Science and Business Media LLC
+SP  - 1055-1071
+IS  - 4
+VL  - 192
+SN  - 0039-7857
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-658-15450-9_2
+UR  - http://dx.doi.org/10.1007/978-3-658-15450-9_2
+TI  - Das Menschen- und das Weltbild des Pragmatismus
+T2  - Fortsetzung folgt
+AU  - Schubert, Klaus
+PY  - 2016
+DA  - 2016/10/25
+PB  - Springer Fachmedien Wiesbaden
+SP  - 33-57
+SN  - 9783658154493
+ER  - 
+
+TY  - CPAPER
+DO  - 10.1109/i4ct.2015.7219573
+UR  - http://dx.doi.org/10.1109/i4ct.2015.7219573
+TI  - Exploring the essence of intelligence based on Pragmaticism's scientific method: The framework of intelligent processes
+T2  - 2015 International Conference on Computer, Communications, and Control Technology (I4CT)
+AU  - Abdul Rahman, Safawi
+AU  - Ab Ghani, Haliza
+AU  - Nordin, Sharifalillah
+AU  - Kamaruzzaman, Mohd Ridwan Seman
+PY  - 2015
+DA  - 2015/04
+PB  - IEEE
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0008
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0008
+TI  - 7 General Features of Life
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 198-247
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0021
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0021
+TI  - 20 Intentionality and Conceptualization
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 573-593
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0024
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0024
+TI  - 23 Language
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 625-665
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.1555
+UR  - http://dx.doi.org/10.4000/ejpap.1555
+TI  - Peirce e Leibniz
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Failla, Mariannina
+PY  - 2019
+DA  - 2019/07/19
+PB  - OpenEdition
+IS  - 1
+VL  - XI
+SN  - 2036-4091
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.866
+UR  - http://dx.doi.org/10.4000/ejpap.866
+TI  - Peirce’s Post-Jamesian Pragmatism
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Houser, Nathan
+PY  - 2011
+DA  - 2011/07/01
+PB  - OpenEdition
+IS  - 1
+VL  - III
+SN  - 2036-4091
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/(sici)1099-1735(199609)13:3<229::aid-sres96>3.0.co;2-b
+UR  - http://dx.doi.org/10.1002/(sici)1099-1735(199609)13:3<229::aid-sres96>3.0.co;2-b
+TI  - From second-order cybernetics to cybersemiotics: A semiotic re-entry into the second-order cybernetics of Heinz von Foerster
+T2  - Systems Research
+AU  - Brier, Søren
+PY  - 1996
+DA  - 1996/09
+PB  - Wiley
+SP  - 229-244
+IS  - 3
+VL  - 13
+SN  - 0731-7239
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/diseases5040028
+UR  - http://dx.doi.org/10.3390/diseases5040028
+TI  - Risk Evaluation Requires an Independent Mind
+T2  - Diseases
+AU  - Schmidt, Christian
+AU  - Storsberg, Joachim
+PY  - 2017
+DA  - 2017/11/24
+PB  - MDPI AG
+SP  - 28
+IS  - 4
+VL  - 5
+SN  - 2079-9721
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s42087-020-00153-3
+UR  - http://dx.doi.org/10.1007/s42087-020-00153-3
+TI  - Towards a Theoretical Model of Trajectories and Transitions of Thought
+T2  - Human Arenas
+AU  - Fossa, Pablo
+AU  - Molina, María Elisa
+AU  - Jacob, Lina
+AU  - Gube, Jan
+AU  - Sawitzki, Franziska
+PY  - 2021
+DA  - 2021/01/04
+PB  - Springer Science and Business Media LLC
+SP  - 520-537
+IS  - 3
+VL  - 5
+SN  - 2522-5790
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0003
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0003
+TI  - Copyright Page
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - iv-iv
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0026
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0026
+TI  - 25 Final Philosophical Remarks
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 678-687
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/bjp.12047
+UR  - http://dx.doi.org/10.1111/bjp.12047
+TI  - The Analytic Institute as a Psychic Retreat: Why We Need to Include Research Evidence in Our Clinical Training
+T2  - British Journal of Psychotherapy
+AU  - Knox, Jean
+PY  - 2013
+DA  - 2013/10/10
+PB  - Wiley
+SP  - 424-448
+IS  - 4
+VL  - 29
+SN  - 0265-9883
+ER  - 
+
+TY  - JOUR
+DO  - 10.1093/monist/onab019
+UR  - http://dx.doi.org/10.1093/monist/onab019
+TI  - What Is Cosmopsychism?
+T2  - The Monist
+AU  - Ganeri, Jonardon
+AU  - Shani, Itay
+PY  - 2022
+DA  - 2022/01/01
+PB  - Oxford University Press (OUP)
+SP  - 1-5
+IS  - 1
+VL  - 105
+SN  - 0026-9662
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0006
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0006
+TI  - Author's Preface
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - ix-x
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0003
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0003
+TI  - 2 Quantum and Classical Information and Entropy
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 33-65
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0009
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0009
+TI  - 8 The Organism as a Semiotic and Cybernetic System
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 248-274
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf01252204
+UR  - http://dx.doi.org/10.1007/bf01252204
+TI  - On cognition, affects, and horney theory
+T2  - The American Journal of Psychoanalysis
+AU  - Rubins, Jack L.
+PY  - 1980
+DA  - 1980/09
+PB  - Springer Science and Business Media LLC
+SP  - 195-212
+IS  - 3
+VL  - 40
+SN  - 0002-9548
+ER  - 
+
+TY  - JOUR
+DO  - 10.1515/sem.2007.023
+UR  - http://dx.doi.org/10.1515/sem.2007.023
+TI  - A preliminary examination of a theoretical model for researching educator beliefs
+T2  - Semiotica
+AU  - Schreiber, James B
+AU  - Moss, Connie M
+AU  - Staab, Janice M
+PY  - 2007
+DA  - 2007/01/19
+PB  - Walter de Gruyter GmbH
+IS  - 164
+VL  - 2007
+SN  - 0037-1998
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0002
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0002
+TI  - 1 Quantum Mechanics as a General Framework
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 7-32
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0019
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0019
+TI  - 18 The Basic Symbolic Systems
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 515-561
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s12124-011-9167-6
+UR  - http://dx.doi.org/10.1007/s12124-011-9167-6
+TI  - Cutting Space—Cutting Body: The Nature of the Grotesque in Umwelt
+T2  - Integrative Psychological and Behavioral Science
+AU  - Maslov, Kirill
+AU  - Kharlamov, Nikita
+PY  - 2011
+DA  - 2011/05/10
+PB  - Springer Science and Business Media LLC
+SP  - 194-200
+IS  - 2
+VL  - 45
+SN  - 1932-4502
+ER  - 
+
+TY  - JOUR
+DO  - 10.1093/philmat/nkx018
+UR  - http://dx.doi.org/10.1093/philmat/nkx018
+TI  - Labyrinth of Continua†
+T2  - Philosophia Mathematica
+AU  - Reeder, Patrick
+PY  - 2017
+DA  - 2017/08/07
+PB  - Oxford University Press (OUP)
+SP  - 1-39
+IS  - 1
+VL  - 26
+SN  - 0031-8019
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0014
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0014
+TI  - 13 The Brain as an Information‐Control System
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 423-439
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/ejpap.1628
+UR  - http://dx.doi.org/10.4000/ejpap.1628
+TI  - The Throne of Mnemosyne
+T2  - European Journal of Pragmatism and American Philosophy
+AU  - Snelson, Kermit
+PY  - 2019
+DA  - 2019/12/25
+PB  - OpenEdition
+IS  - 2
+VL  - XI
+SN  - 2036-4091
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/1354067x0171002
+UR  - http://dx.doi.org/10.1177/1354067x0171002
+TI  - The First Six Years: Culture’s Adventures in Psychology
+T2  - Culture &amp; Psychology
+AU  - Valsiner, Jaan
+PY  - 2001
+DA  - 2001/03
+PB  - SAGE Publications
+SP  - 5-48
+IS  - 1
+VL  - 7
+SN  - 1354-067X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0005
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0005
+TI  - 4 Vision
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 104-134
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1086/695760
+UR  - http://dx.doi.org/10.1086/695760
+TI  - “Protoplasm Feels”: The Role of Physiology in Charles Sanders Peirce’s Evolutionary Metaphysics
+T2  - HOPOS: The Journal of the International Society for the History of Philosophy of Science
+AU  - Pearce, Trevor
+PY  - 2018
+DA  - 2018/03
+PB  - University of Chicago Press
+SP  - 28-61
+IS  - 1
+VL  - 8
+SN  - 2152-5188
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0017
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0017
+TI  - 16 Learning
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 479-493
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.002.0007
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.002.0007
+TI  - Epigraph
+T2  - Cognitive Biology
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - xi-xii
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.17572/mj2018.1.114
+UR  - http://dx.doi.org/10.17572/mj2018.1.114
+TI  - Yankı: Veya Sözcüklerin Kökeni Üzerine
+T2  - Moment Journal
+AU  - Butchart, Garnet C.
+PY  - 2018
+DA  - 2018/06/15
+PB  - Moment Journal
+SP  - 1-14
+IS  - 1
+VL  - 5
+SN  - 2148-970X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0015
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0015
+TI  - 14 Decisional, Emotional, and Cognitive Systems
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 440-460
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0010
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0010
+TI  - 9 Phylogeny
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 275-316
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0012
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0012
+TI  - 11 Epigeny
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 335-377
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0018
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0018
+TI  - 17 Memory
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 494-512
+SN  - 0199608482
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1093/acprof:oso/9780199608485.003.0001
+UR  - http://dx.doi.org/10.1093/acprof:oso/9780199608485.003.0001
+TI  - Introduction
+T2  - Cognitive Biology
+AU  - Auletta, Gennaro
+PY  - 2011
+DA  - 2011/07/14
+PB  - Oxford University PressOxford
+SP  - 1-4
+SN  - 0199608482
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf03181395
+UR  - http://dx.doi.org/10.1007/bf03181395
+TI  - Peirce et le continu
+T2  - Revue de Synthèse
+AU  - Panza, Marco
+PY  - 1998
+DA  - 1998/06/27
+PB  - Brill
+SP  - 603-611
+IS  - 4
+VL  - 119
+SN  - 0035-1776
+ER  - 

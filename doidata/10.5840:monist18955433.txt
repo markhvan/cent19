@@ -1,0 +1,55 @@
+TY  - GENERIC
+DO  - 10.1016/s0070-2153(08)60524-4
+UR  - http://dx.doi.org/10.1016/s0070-2153(08)60524-4
+TI  - Chapter 8 The Neuroembryological Study of Behavior: Progress, Problems, Perspectives
+T2  - Current Topics in Developmental Biology
+AU  - Oppenheim, Ronald W.
+PY  - 1982
+PB  - Elsevier
+SP  - 257-309
+SN  - 0070-2153
+ER  - 
+
+TY  - JOUR
+DO  - 10.1126/science.2.46.667.a
+UR  - http://dx.doi.org/10.1126/science.2.46.667.a
+TI  - The Science of Mentation
+T2  - Science
+AU  - Mills, Wesley
+PY  - 1895
+DA  - 1895/11/15
+PB  - American Association for the Advancement of Science (AAAS)
+SP  - 667-667
+IS  - 46
+VL  - 2
+SN  - 0036-8075
+ER  - 
+
+TY  - JOUR
+DO  - 10.1126/science.2.46.667-a
+UR  - http://dx.doi.org/10.1126/science.2.46.667-a
+TI  - The Science of Mentation
+T2  - Science
+AU  - Mills, Wesley
+PY  - 1895
+DA  - 1895/11/15
+PB  - American Association for the Advancement of Science (AAAS)
+SP  - 667-667
+IS  - 46
+VL  - 2
+SN  - 0036-8075
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.shpsc.2020.101275
+UR  - http://dx.doi.org/10.1016/j.shpsc.2020.101275
+TI  - How comparative psychology lost its soul: Psychical research and the new science of animal behavior
+T2  - Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences
+AU  - Pence, David Evan
+PY  - 2020
+DA  - 2020/08
+PB  - Elsevier BV
+SP  - 101275
+VL  - 82
+SN  - 1369-8486
+ER  - 

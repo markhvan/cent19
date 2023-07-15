@@ -1,0 +1,534 @@
+TY  - JOUR
+DO  - 10.1207/s15327965pli1004_4
+UR  - http://dx.doi.org/10.1207/s15327965pli1004_4
+TI  - TARGET ARTICLE
+T2  - Psychological Inquiry
+PY  - 1999
+DA  - 1999/10
+PB  - Informa UK Limited
+SP  - 309-328
+IS  - 3
+VL  - 10
+SN  - 1047-840X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.003
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.003
+TI  - Introduction: Scientific Creativity
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 1-13
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.2139/ssrn.1673371
+UR  - http://dx.doi.org/10.2139/ssrn.1673371
+TI  - Reasoning the ‘Net-Present-Value’ Way: Some Biases and How to Use Psychology for Falsifying Decision Models
+T2  - SSRN Electronic Journal
+AU  - Magni, Carlo Alberto
+PY  - 2005
+PB  - Elsevier BV
+SN  - 1556-5068
+ER  - 
+
+TY  - JOUR
+DO  - 10.1207/s15326934crj1704_1
+UR  - http://dx.doi.org/10.1207/s15326934crj1704_1
+TI  - Darwin as Straw Man: Dasgupta's (2004) Evaluation of Creativity as a Darwinian Process
+T2  - Creativity Research Journal
+AU  - Simonton, Dean Keith
+PY  - 2005
+DA  - 2005/10
+PB  - Informa UK Limited
+SP  - 299-308
+IS  - 4
+VL  - 17
+SN  - 1040-0419
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.008
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.008
+TI  - Scientific Discovery
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 137-159
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.1037/a0032803
+UR  - http://dx.doi.org/10.1037/a0032803
+TI  - Creative Thoughts as Acts of Free Will: A Two-Stage Formal Integration
+T2  - Review of General Psychology
+AU  - Simonton, Dean Keith
+PY  - 2013
+DA  - 2013/12
+PB  - SAGE Publications
+SP  - 374-383
+IS  - 4
+VL  - 17
+SN  - 1089-2680
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-007-5351-8_1
+UR  - http://dx.doi.org/10.1007/978-94-007-5351-8_1
+TI  - The Riddle of Bacon
+T2  - Boston Studies in the Philosophy and History of Science
+AU  - Agassi, Joseph
+PY  - 2012
+DA  - 2012/10/30
+PB  - Springer Netherlands
+SP  - 3-13
+SN  - 0068-0346
+ER  - 
+
+TY  - JOUR
+DO  - 10.2139/ssrn.2443277
+UR  - http://dx.doi.org/10.2139/ssrn.2443277
+TI  - Antecedents of Radical Innovations: The Discovery of DNA Structure and the Invention of DSL
+T2  - SSRN Electronic Journal
+AU  - Appio, Francesco Paolo
+AU  - Van Looy, Bart
+AU  - Di Minin, Alberto
+PY  - 2013
+PB  - Elsevier BV
+SN  - 1556-5068
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.007
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.007
+TI  - Creative Scientists
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 99-136
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/10400419.2015.1030310
+UR  - http://dx.doi.org/10.1080/10400419.2015.1030310
+TI  - The Domain-Specificity of Creativity: Insights from New Phenomenology
+T2  - Creativity Research Journal
+AU  - Julmi, Christian
+AU  - Scherm, Ewald
+PY  - 2015
+DA  - 2015/04/03
+PB  - Informa UK Limited
+SP  - 151-159
+IS  - 2
+VL  - 27
+SN  - 1040-0419
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/10400419.2011.621861
+UR  - http://dx.doi.org/10.1080/10400419.2011.621861
+TI  - Debating the BVSR Theory of Creativity: Comments on Dasgupta (2011) and Gabora (2011)
+T2  - Creativity Research Journal
+AU  - Simonton, Dean Keith
+PY  - 2011
+DA  - 2011/10
+PB  - Informa UK Limited
+SP  - 381-387
+IS  - 4
+VL  - 23
+SN  - 1040-0419
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf01801650
+UR  - http://dx.doi.org/10.1007/bf01801650
+TI  - Über den Grad der Bewährung naturwissenschaftlicher Hypothesen
+T2  - Zeitschrift für allgemeine Wissenschaftstheorie
+AU  - Grüsser, O. -J.
+PY  - 1983
+DA  - 1983/09
+PB  - Springer Science and Business Media LLC
+SP  - 273-291
+IS  - 2
+VL  - 14
+SN  - 0044-2216
+ER  - 
+
+TY  - JOUR
+DO  - 10.1287/orsc.1110.0681
+UR  - http://dx.doi.org/10.1287/orsc.1110.0681
+TI  - Accidental Innovation: Supporting Valuable Unpredictability in the Creative Process
+T2  - Organization Science
+AU  - Austin, Robert D.
+AU  - Devin, Lee
+AU  - Sullivan, Erin E.
+PY  - 2012
+DA  - 2012/10
+PB  - Institute for Operations Research and the Management Sciences (INFORMS)
+SP  - 1505-1522
+IS  - 5
+VL  - 23
+SN  - 1047-7039
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.1741-5446.1994.00371.x
+UR  - http://dx.doi.org/10.1111/j.1741-5446.1994.00371.x
+TI  - THE SCIENTIFIC STATUS OF RESEARCH ON TEACHING
+T2  - Educational Theory
+AU  - GAGE, N. L.
+PY  - 1994
+DA  - 1994/12
+PB  - Wiley
+SP  - 371-383
+IS  - 4
+VL  - 44
+SN  - 0013-2004
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.002
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.002
+TI  - Mathematical Notation
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - xiii-xvi
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.1037/gpr0000075
+UR  - http://dx.doi.org/10.1037/gpr0000075
+TI  - Creativity, Automaticity, Irrationality, Fortuity, Fantasy, and Other Contingencies: An Eightfold Response Typology
+T2  - Review of General Psychology
+AU  - Simonton, Dean Keith
+PY  - 2016
+DA  - 2016/06
+PB  - SAGE Publications
+SP  - 194-204
+IS  - 2
+VL  - 20
+SN  - 1089-2680
+ER  - 
+
+TY  - GENERIC
+DO  - 10.14220/9783737009331.97
+UR  - http://dx.doi.org/10.14220/9783737009331.97
+TI  - Ernst Mach: <i>Über den Einfluß zufälliger Umstände auf die Entwickelung von Erfindungen und Entdeckungen</i> (1895)
+T2  - Die Antrittsvorlesung
+AU  - Stoppelkamp, Bastian
+PY  - 2019
+DA  - 2019/02/17
+PB  - V&R unipress
+SP  - 97-118
+ER  - 
+
+TY  - JOUR
+DO  - 10.3389/fpsyg.2021.721104
+UR  - http://dx.doi.org/10.3389/fpsyg.2021.721104
+TI  - Scientific Creativity: Discovery and Invention as Combinatorial
+T2  - Frontiers in Psychology
+AU  - Simonton, Dean Keith
+PY  - 2021
+DA  - 2021/08/23
+PB  - Frontiers Media SA
+VL  - 12
+SN  - 1664-1078
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-84478-3_12
+UR  - http://dx.doi.org/10.1007/978-3-030-84478-3_12
+TI  - Serendipity and Creativity in the Arts and Sciences: A Combinatorial Analysis
+T2  - The Art of Serendipity
+AU  - Simonton, Dean Keith
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 293-320
+SN  - 9783030844776
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-349-01892-5_9
+UR  - http://dx.doi.org/10.1007/978-1-349-01892-5_9
+TI  - Unjustified Variation and Selective Retention in Scientific Discovery
+T2  - Studies in the Philosophy of Biology
+AU  - Campbell, Donald T.
+PY  - 1974
+PB  - Macmillan Education UK
+SP  - 139-161
+SN  - 9781349018949
+ER  - 
+
+TY  - JOUR
+DO  - 10.1057/jit.2009.1
+UR  - http://dx.doi.org/10.1057/jit.2009.1
+TI  - Creative, Convergent, and Social: Prospects for Mobile Computing
+T2  - Journal of Information Technology
+AU  - Wareham, Jonathan D
+AU  - Busquets, Xavier
+AU  - Austin, Robert D
+PY  - 2009
+DA  - 2009/06
+PB  - SAGE Publications
+SP  - 139-143
+IS  - 2
+VL  - 24
+SN  - 0268-3962
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-009-9015-9_1
+UR  - http://dx.doi.org/10.1007/978-94-009-9015-9_1
+TI  - Scientific Judgment: Creativity and Discovery in Scientific Thought
+T2  - Scientific Discovery: Case Studies
+AU  - Wartofsky, Marx W.
+PY  - 1980
+PB  - Springer Netherlands
+SP  - 1-16
+SN  - 0068-0346
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/bf03392102
+UR  - http://dx.doi.org/10.1007/bf03392102
+TI  - Ernst Mach and B. F. Skinner: Their similarities with two traditions for verbal behavior
+T2  - The Behavior Analyst
+AU  - Moxley, Roy A.
+PY  - 2005
+DA  - 2005/04
+PB  - Springer Science and Business Media LLC
+SP  - 29-48
+IS  - 1
+VL  - 28
+SN  - 0738-6729
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/1470412912455618
+UR  - http://dx.doi.org/10.1177/1470412912455618
+TI  - ‘Beauty of Chance’:<i>Film ist</i>
+T2  - Journal of Visual Culture
+AU  - Gaycken, Oliver
+PY  - 2012
+DA  - 2012/12
+PB  - SAGE Publications
+SP  - 307-327
+IS  - 3
+VL  - 11
+SN  - 1470-4129
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.001
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.001
+TI  - Preface
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - ix-xii
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/08919402.1906.10534367
+UR  - http://dx.doi.org/10.1080/08919402.1906.10534367
+TI  - Genius and Stupidity
+T2  - The Pedagogical Seminary
+AU  - Terman, Lewis M.
+PY  - 1906
+DA  - 1906/09
+PB  - Informa UK Limited
+SP  - 307-373
+IS  - 3
+VL  - 13
+SN  - 0891-9402
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00016-020-00256-y
+UR  - http://dx.doi.org/10.1007/s00016-020-00256-y
+TI  - The Concept of Fact in German Physics around 1900: A Comparison between Mach and Einstein
+T2  - Physics in Perspective
+AU  - de Waal, Elske
+AU  - ten Hagen, Sjang L.
+PY  - 2020
+DA  - 2020/05/22
+PB  - Springer Science and Business Media LLC
+SP  - 55-80
+IS  - 2
+VL  - 22
+SN  - 1422-6944
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.010
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.010
+TI  - References
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 185-210
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/10400419.2022.2059919
+UR  - http://dx.doi.org/10.1080/10400419.2022.2059919
+TI  - The Blind-Variation and Selective-Retention Theory of Creativity: Recent Developments and Current Status of BVSR
+T2  - Creativity Research Journal
+AU  - Simonton, Dean Keith
+PY  - 2022
+DA  - 2022/04/14
+PB  - Informa UK Limited
+SP  - 1-20
+SN  - 1040-0419
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1002/9780470514498.ch12
+UR  - http://dx.doi.org/10.1002/9780470514498.ch12
+TI  - Family Influences on the Development of Giftedness
+T2  - Ciba Foundation Symposium 178 - The Origins and Development of High Ability
+AU  - Csikszentmihalyi, Mihaly
+AU  - Csikszentmihalyi, Isabella Selega
+PY  - 2007
+DA  - 2007/09/28
+PB  - John Wiley & Sons, Ltd.
+SP  - 187-206
+SN  - 1935-4657
+ER  - 
+
+TY  - BOOK
+DO  - 10.1017/cbo9781139165358
+UR  - http://dx.doi.org/10.1017/cbo9781139165358
+TI  - Creativity in Science
+AU  - Simonton, Dean Keith
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SN  - 9780521543699
+ER  - 
+
+TY  - JOUR
+DO  - 10.1023/a:1006538721601
+UR  - http://dx.doi.org/10.1023/a:1006538721601
+TI  - The Invisible Hand of Natural Selection, and Vice Versa
+T2  - Biology &amp; Philosophy
+AU  - Carey, Toni Vogel
+PY  - 1998
+DA  - 1998/07
+PB  - Springer Science and Business Media LLC
+SP  - 427-442
+IS  - 3
+VL  - 13
+SN  - 0169-3867
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.006
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.006
+TI  - Scientific Activity
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 76-98
+SN  - 9780521543699
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-12-809790-8.00004-2
+UR  - http://dx.doi.org/10.1016/b978-0-12-809790-8.00004-2
+TI  - Creativity and Free Will: Creative Thought Enhances Personal Freedom?
+T2  - The Creative Self
+AU  - Simonton, Dean Keith
+PY  - 2017
+PB  - Elsevier
+SP  - 65-84
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.009
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.009
+TI  - Consolidation: Creativity in Science
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 160-184
+SN  - 9780521543699
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.004
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.004
+TI  - Creative Products
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 14-39
+SN  - 9780521543699
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-94-007-5351-8_16
+UR  - http://dx.doi.org/10.1007/978-94-007-5351-8_16
+TI  - The New Doctrine of Prejudice
+T2  - The Very Idea of Modern Science
+AU  - Agassi, Joseph
+PY  - 2012
+DA  - 2012/10/30
+PB  - Springer Netherlands
+SP  - 249-264
+SN  - 9789400753501
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1016/b978-0-12-800225-4.00018-5
+UR  - http://dx.doi.org/10.1016/b978-0-12-800225-4.00018-5
+TI  - References
+T2  - Creativity in Engineering
+PY  - 2015
+PB  - Elsevier
+SP  - 295-314
+ER  - 
+
+TY  - JOUR
+DO  - 10.1037/gpr0000165
+UR  - http://dx.doi.org/10.1037/gpr0000165
+TI  - Creative Genius as Causal Agent in History: William James's 1880 Theory Revisited and Revitalized
+T2  - Review of General Psychology
+AU  - Simonton, Dean Keith
+PY  - 2018
+DA  - 2018/12
+PB  - SAGE Publications
+SP  - 406-421
+IS  - 4
+VL  - 22
+SN  - 1089-2680
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1017/cbo9781139165358.005
+UR  - http://dx.doi.org/10.1017/cbo9781139165358.005
+TI  - Combinatorial Processes
+T2  - Creativity in Science
+PY  - 2004
+DA  - 2004/05/03
+PB  - Cambridge University Press
+SP  - 40-75
+SN  - 9780521543699
+ER  - 
