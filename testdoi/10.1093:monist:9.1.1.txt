@@ -1,0 +1,67 @@
+TY  - JOUR
+DO  - 10.33392/diam.1171
+UR  - http://dx.doi.org/10.33392/diam.1171
+TI  - Sensy obiektywności. Henri Poincaré i Ernst Cassirer w kontekście realizmu strukturalnego
+T2  - Diametros
+AU  - Luty, Damian
+PY  - 2020
+DA  - 2020/03/07
+PB  - Jagiellonian University
+SP  - 1-17
+SN  - 1733-5566
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/cpuc.1301
+UR  - http://dx.doi.org/10.4000/cpuc.1301
+TI  - Henri Poincaré et l’espace-temps conventionnel
+T2  - Cahiers de philosophie de l’Université de Caen
+AU  - Walter, Scott
+PY  - 2008
+DA  - 2008/12/15
+PB  - OpenEdition
+SP  - 87-119
+IS  - 45
+SN  - 1282-6545
+ER  - 
+
+TY  - JOUR
+DO  - 10.2478/kjps-2019-0007
+UR  - http://dx.doi.org/10.2478/kjps-2019-0007
+TI  - The Role of Intuition and Formal Thinking in Kant, Riemann, Husserl, Poincare, Weyl, and in Current Mathematics and Physics
+T2  - Kairos. Journal of Philosophy &amp; Science
+AU  - Boi, Luciano
+PY  - 2019
+DA  - 2019/12/01
+PB  - Walter de Gruyter GmbH
+SP  - 1-53
+IS  - 1
+VL  - 22
+SN  - 1647-659X
+ER  - 
+
+TY  - JOUR
+DO  - 10.4000/philosophiascientiae.680
+UR  - http://dx.doi.org/10.4000/philosophiascientiae.680
+TI  - The Constitutive and the Conventional in Poincaré’s Conventionalism
+T2  - Philosophia Scientae
+AU  - Bland, Steven
+PY  - 2011
+DA  - 2011/10/01
+PB  - OpenEdition
+SP  - 47-66
+IS  - 15-3
+SN  - 1281-2463
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-51608-0_21
+UR  - http://dx.doi.org/10.1007/978-3-319-51608-0_21
+TI  - Objectivity in Mathematics: The Structuralist Roots of a Pragmatic Realism
+T2  - Varieties of Scientific Realism
+AU  - Heinzmann, Gerhard
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 385-393
+SN  - 9783319516073
+ER  - 

@@ -1,0 +1,98 @@
+TY  - JOUR
+DO  - 10.1080/15295039209366818
+UR  - http://dx.doi.org/10.1080/15295039209366818
+TI  - Constructing the anarchist beast in American periodical literature, 1880–1903
+T2  - Critical Studies in Mass Communication
+AU  - Hong, Nathaniel
+PY  - 1992
+DA  - 1992/03
+PB  - Informa UK Limited
+SP  - 110-130
+IS  - 1
+VL  - 9
+SN  - 0739-3180
+ER  - 
+
+TY  - JOUR
+DO  - 10.1177/0004865811419062
+UR  - http://dx.doi.org/10.1177/0004865811419062
+TI  - Lombroso's Jewish identity and its implications for criminology
+T2  - Australian &amp; New Zealand Journal of Criminology
+AU  - Knepper, Paul
+PY  - 2011
+DA  - 2011/12
+PB  - SAGE Publications
+SP  - 355-369
+IS  - 3
+VL  - 44
+SN  - 0004-8658
+ER  - 
+
+TY  - JOUR
+DO  - 10.14321/jstudradi.13.1.0019
+UR  - http://dx.doi.org/10.14321/jstudradi.13.1.0019
+TI  - Cesare Lombroso and the Anarchists
+T2  - Journal for the Study of Radicalism
+AU  - Bass, Patricia
+PY  - 2019
+DA  - 2019/01/01
+PB  - Michigan State University Press
+SP  - 19-42
+IS  - 1
+VL  - 13
+SN  - 1930-1189
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/s0022463418000310
+UR  - http://dx.doi.org/10.1017/s0022463418000310
+TI  - Bilibid and beyond: Race, body size, and the native in early American colonial Philippines
+T2  - Journal of Southeast Asian Studies
+AU  - Gealogo, Francis A.
+PY  - 2018
+DA  - 2018/10
+PB  - Cambridge University Press (CUP)
+SP  - 372-386
+IS  - 3
+VL  - 49
+SN  - 0022-4634
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1002/9781119011385.ch3
+UR  - http://dx.doi.org/10.1002/9781119011385.ch3
+TI  - Laughing at Lombroso
+T2  - The Handbook of the History and Philosophy of Criminology
+AU  - Knepper, Paul
+PY  - 2017
+DA  - 2017/11/10
+PB  - John Wiley & Sons, Inc.
+SP  - 49-66
+ER  - 
+
+TY  - JOUR
+DO  - 10.1086/718326
+UR  - http://dx.doi.org/10.1086/718326
+TI  - An Okapi Hypothesis: Non-Euclidean Geometry and the Professional Expert in American Mathematics
+T2  - Isis
+AU  - Lorenat, Jemma
+PY  - 2022
+DA  - 2022/03/01
+PB  - University of Chicago Press
+SP  - 85-107
+IS  - 1
+VL  - 113
+SN  - 0021-1753
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1057/9780230319325_3
+UR  - http://dx.doi.org/10.1057/9780230319325_3
+TI  - Terror, Spectacle and the Press: Anarchist Outrage in Edwardian England
+T2  - Evil, Barbarism and Empire
+AU  - Speicher, David
+PY  - 2011
+PB  - Palgrave Macmillan UK
+SP  - 54-72
+SN  - 9781349316977
+ER  - 

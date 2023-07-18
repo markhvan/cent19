@@ -1,0 +1,27 @@
+TY  - JOUR
+DO  - 10.1177/007327536600500101
+UR  - http://dx.doi.org/10.1177/007327536600500101
+TI  - Scholarship and the History of the Behavioural Sciences
+T2  - History of Science
+AU  - Young, Robert M.
+PY  - 1966
+DA  - 1966/03
+PB  - SAGE Publications
+SP  - 1-51
+IS  - 1
+VL  - 5
+SN  - 0073-2753
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4939-1387-9_4
+UR  - http://dx.doi.org/10.1007/978-1-4939-1387-9_4
+TI  - The ‘Meme’ Meme Revisited
+T2  - Epistemological Dimensions of Evolutionary Psychology
+AU  - Costall, Alan
+PY  - 2014
+DA  - 2014/11/05
+PB  - Springer New York
+SP  - 89-101
+SN  - 9781493913862
+ER  - 
