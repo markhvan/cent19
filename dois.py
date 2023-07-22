@@ -67,6 +67,13 @@ def extract():
             read_text_file(file_path)
     return citation_list
 
+bust = [1,2,3]
+
+def writejson(path, data):
+    path = '/Users/markhorner/Desktop/github/cent19/fwdcite.json'
+    with open(path, 'w') as f:
+        # for i in data:
+        json.dump(data, f, indent = 2)
 
 
 
@@ -74,8 +81,8 @@ def extract():
 # Everything in the format function must be moved to the read_text_file function so that after each file is opened and
 # its name(doi) is added to the citation list of dicts, we can add all that files forward citation data at the same time
 
-print(extract())
-print(len(citation_list))
+
+writejson(path, extract())
 # print(format())
 
 
